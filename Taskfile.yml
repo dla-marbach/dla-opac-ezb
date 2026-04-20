@@ -1,0 +1,19 @@
+# https://taskfile.dev
+
+version: '3'
+
+method: none
+
+tasks:
+  main:
+    desc: Transformation EZB-Daten in DLA-OPAC-Internformat
+    cmds:
+      - python3 ezb2intern.py --input input/ezb-dla-kbart.tsv --output output/ezb.tsv
+    sources:
+      - input/ezb-dla-kbart.tsv
+      - ezb2intern.py
+      - Taskfile.yml
+    generates:
+      - output/ezb.tsv'
+    preconditions:
+      - command -v python3
