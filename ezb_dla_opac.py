@@ -9,15 +9,34 @@ import pandas as pd
 __author__ = 'Felix Lohmeier'
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-i', '--input', help='Input file name(s)', required=True)
-parser.add_argument('-o', '--output', help='Output file name', required=True)
+parser.add_argument('-i', '--input', help='Input file name(s)', default='input/ezb-dla-kbart.tsv')
+parser.add_argument('-o', '--output', help='Output file name', default='output/ezb.tsv')
+parser.add_argument('-z', '--zdb-cache', help='ZDB cache file name', default='output/zdb-cache.tsv')
 args = parser.parse_args()
 
-# Import
+# Import EZB-Quelldaten im KBART-Format
 df_input = pd.read_csv(args.input, sep='\t', dtype=str, keep_default_na=False)
 df_input = df_input.fillna('').astype(str)
 df_input = df_input.apply(lambda col: col.str.strip())
 
+# Import ZDB-Cache
+df_zdb_cache = pd.read_csv(args.zdb_cache, sep='\t', dtype=str, keep_default_na=False)
+df_zdb_cache = df_zdb_cache.fillna('').astype(str)
+df_zdb_cache = df_zdb_cache.apply(lambda col: col.str.strip())
+df_zdb_cache = df_zdb_cache[['zdb_id', 'zdb_264_a', 'zdb_041_a', 'zdb_776_w']].drop_duplicates(subset=['zdb_id'])
+
+df_input = df_input.merge(df_zdb_cache, on='zdb_id', how='left')
+df_input['zdb_264_a'] = df_input['zdb_264_a'].fillna('')
+df_input['zdb_041_a'] = df_input['zdb_041_a'].fillna('')
+df_input['zdb_776_w'] = df_input['zdb_776_w'].fillna('')
+
+# Import Sprachcodes
+df_sprachcodes = pd.read_csv('input/sprachcodes.csv', dtype=str, keep_default_na=False)
+df_sprachcodes = df_sprachcodes.fillna('').astype(str)
+df_sprachcodes = df_sprachcodes.apply(lambda col: col.str.strip())
+language_map = dict(zip(df_sprachcodes['code'], df_sprachcodes['language']))
+
+# Transformation in Ziel-Dataframe
 df = pd.DataFrame()
 
 df['id'] = 'EZB' + df_input['title_id']
@@ -33,6 +52,29 @@ df['listview_additional2'] = 'Volltext (Elektronische Zeitschriftenbibliothek)'
 df['A0412'] = df_input['publisher_name']
 df['ANUM'] = df_input['zdb_id']
 df['A0542'] = df_input['online_identifier']
+df['A0410'] = df_input['zdb_264_a']
+df['facet_language'] = df_input['zdb_041_a'].map(
+	lambda value: '␟'.join(
+		[
+			language_map.get(code.strip(), '')
+			for code in value.split('␟')
+			if code.strip() and language_map.get(code.strip(), '')
+		]
+	)
+	if value
+	else ''
+)
+df['P-ZDB'] = df_input['zdb_776_w'].map(
+	lambda value: '␟'.join(
+		[
+			part[8:].strip()
+			for part in value.split('␟')
+			if '(DE-600)' in part and part[8:].strip()
+		]
+	)
+	if value
+	else ''
+)
 
 df['A0405'] = df_input.apply(
 	lambda row: ((
@@ -136,5 +178,5 @@ df['AURL'] = df.apply(
 )
 df['AMNUM'] = '572z'
 
-# export
+# Export
 df.to_csv(args.output, sep='\t', index=False)
