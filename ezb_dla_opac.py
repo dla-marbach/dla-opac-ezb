@@ -52,7 +52,17 @@ df['listview_additional2'] = 'Volltext (Elektronische Zeitschriftenbibliothek)'
 df['A0412'] = df_input['publisher_name']
 df['ANUM'] = df_input['zdb_id']
 df['A0542'] = df_input['online_identifier']
-df['A0410'] = df_input['zdb_264_a']
+df['A0410'] = df_input['zdb_264_a'].map(
+	lambda value: '; '.join(
+		[
+			part
+			for part in dict.fromkeys(item.strip() for item in value.split('␟'))
+			if part
+		]
+	)
+	if value
+	else ''
+)
 df['facet_language'] = df_input['zdb_041_a'].map(
 	lambda value: '␟'.join(
 		[
