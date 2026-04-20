@@ -40,19 +40,19 @@ language_map = dict(zip(df_sprachcodes['code'], df_sprachcodes['language']))
 df = pd.DataFrame()
 
 df['id'] = 'EZB' + df_input['title_id']
-df['TITREG'] = df_input['publication_title']
-df['filter_benutzungscode'] = 'benutzbar'
-df['filter_digital'] = 'true'
-df['facet_source'] = 'Elektronische Zeitschriftenbibliothek'
-df['facet_medium'] = 'Zeitschrift'
-df['listview_type_cardinality'] = '1'
-df['listview_type'] = 'Gedrucktes'
-df['listview_additional2'] = 'Volltext (Elektronische Zeitschriftenbibliothek)'
+df['display'] = df_input['publication_title']
+df['title'] = df_input['publication_title']
+df['usageRestriction'] = 'benutzbar'
+df['filterDigital'] = True
+df['filterSource'] = 'Elektronische Zeitschriftenbibliothek'
+df['filterMedium_mv'] = 'Zeitschrift'
+df['filterType_mv'] = 'Gedrucktes'
+df['displayAddition2'] = 'Volltext (Elektronische Zeitschriftenbibliothek)'
 
-df['A0412'] = df_input['publisher_name']
-df['ANUM'] = df_input['zdb_id']
-df['A0542'] = df_input['online_identifier']
-df['A0410'] = df_input['zdb_264_a'].map(
+df['publisherOriginalText_mv'] = df_input['publisher_name']
+df['identifier_id_mv'] = df_input['zdb_id']
+df['issn_mv'] = df_input['online_identifier']
+df['publisherOriginalLocation_mv'] = df_input['zdb_264_a'].map(
 	lambda value: '; '.join(
 		[
 			part
@@ -63,7 +63,7 @@ df['A0410'] = df_input['zdb_264_a'].map(
 	if value
 	else ''
 )
-df['facet_language'] = df_input['zdb_041_a'].map(
+df['filterLanguage_mv'] = df_input['zdb_041_a'].map(
 	lambda value: '␟'.join(
 		[
 			language_map.get(code.strip(), '')
@@ -86,7 +86,7 @@ df['P-ZDB'] = df_input['zdb_776_w'].map(
 	else ''
 )
 
-df['A0405'] = df_input.apply(
+df['publicationHistory'] = df_input.apply(
 	lambda row: ((
 		(
 			row['num_first_vol_online']
@@ -120,23 +120,22 @@ df['A0405'] = df_input.apply(
 	)).strip(),
 	axis=1
 )
-df['detail_bestandsangaben'] = df['A0405']
+df['textualHolding_mv'] = df['publicationHistory']
 
-df['listview_additional1'] = df.apply(
-	lambda row: (f"{row['A0412']}, {row['detail_bestandsangaben']}"
-	             if row['A0412'] and row['detail_bestandsangaben']
-	             else row['A0412'] or row['detail_bestandsangaben']),
+df['displayAddition1'] = df.apply(
+	lambda row: (f"{row['publisherOriginalText_mv']}, {row['textualHolding_mv']}"
+	             if row['publisherOriginalText_mv'] and row['textualHolding_mv']
+	             else row['publisherOriginalText_mv'] or row['textualHolding_mv']),
 	axis=1
 )
-df['listview_title'] = df['TITREG']
 
-df['facet_time'] = df_input.apply(
+df['filterDateRange_mv'] = df_input.apply(
 	lambda row: (lambda joined: f'[{joined}]' if 'TO' in joined else joined)(
 		' TO '.join([value for value in [row['date_first_issue_online'], row['date_last_issue_online']] if value])
 	),
 	axis=1
 )
-df['facet_time_stat'] = df['facet_time'].map(
+df['filterDatePoint_mv'] = df['filterDateRange_mv'].map(
 	lambda facet_time: '␟'.join(
 		[
 			(
@@ -160,12 +159,12 @@ df['facet_time_stat'] = df['facet_time'].map(
 	)
 )
 
-df['BEMURL'] = df.apply(
+df['website_description_mv'] = df.apply(
 	lambda row: '␟'.join(
 		[
 			v
 			for v in [
-				('Volltext (EZB)' if row['ANUM'] else ''),
+				('Volltext (EZB)' if row['identifier_id_mv'] else ''),
 				('Volltext (Verlag)' if df_input.loc[row.name, 'title_url'] else '')
 			]
 			if v
@@ -173,12 +172,12 @@ df['BEMURL'] = df.apply(
 	),
 	axis=1
 )
-df['AURL'] = df.apply(
+df['website_url_mv'] = df.apply(
 	lambda row: '␟'.join(
 		[
 			v
 			for v in [
-				(f"http://ezb.uni-regensburg.de/?{row['ANUM'][:-2]}&bibid=DLA" if row['ANUM'] else ''),
+				(f"http://ezb.uni-regensburg.de/?{row['identifier_id_mv'][:-2]}&bibid=DLA" if row['identifier_id_mv'] else ''),
 				(df_input.loc[row.name, 'title_url'] if df_input.loc[row.name, 'title_url'] else '')
 			]
 			if v
@@ -186,7 +185,7 @@ df['AURL'] = df.apply(
 	),
 	axis=1
 )
-df['AMNUM'] = '572z'
+df['identifier_type_mv'] = '572z'
 
 # Export
 df.to_csv(args.output, sep='\t', index=False)
