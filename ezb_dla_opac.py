@@ -18,6 +18,7 @@ args = parser.parse_args()
 df_input = pd.read_csv(args.input, sep='\t', dtype=str, keep_default_na=False)
 df_input = df_input.fillna('').astype(str)
 df_input = df_input.apply(lambda col: col.str.strip())
+df_input = df_input.drop_duplicates(subset=['title_id'], keep='first').reset_index(drop=True)
 
 # Import ZDB-Cache
 df_zdb_cache = pd.read_csv(args.zdb_cache, sep='\t', dtype=str, keep_default_na=False)
