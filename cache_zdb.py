@@ -14,7 +14,7 @@ import pandas as pd
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', '--input', help='Input file name(s)', default='input/ezb-dla-kbart.tsv')
-parser.add_argument('-o', '--output', help='Output file name', default='output/zdb-cache.tsv')
+parser.add_argument('-o', '--output', help='Output file name', default='cache/cache-zdb.tsv')
 parser.add_argument('--progress-every', help='Statusausgabe alle N Datensaetze', type=int, default=50)
 args = parser.parse_args()
 

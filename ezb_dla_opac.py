@@ -11,7 +11,7 @@ __author__ = 'Felix Lohmeier'
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', '--input', help='Input file name(s)', default='input/ezb-dla-kbart.tsv')
 parser.add_argument('-o', '--output', help='Output file name', default='output/ezb.tsv')
-parser.add_argument('-z', '--zdb-cache', help='ZDB cache file name', default='output/zdb-cache.tsv')
+parser.add_argument('-z', '--zdb-cache', help='ZDB cache file name', default='cache/cache-zdb.tsv')
 args = parser.parse_args()
 
 # Import EZB-Quelldaten im KBART-Format

@@ -2,34 +2,46 @@
 
 version: '3'
 
-method: none
-
 tasks:
   default:
     cmds:
-      - task: cache
+      - task: cache-dla
+      - task: cache-zdb
       - task: main
 
-  cache:
-    desc: Abruf der ZDB-Daten und Erstellung des lokalen Cache
+  cache-dla:
+    desc: Abruf der DLA-Daten und Erstellung des lokalen Cache
     cmds:
-      - python3 zdb_cache.py
+      - python3 cache_dla.py
     sources:
-      - input/ezb-dla-kbart.tsv
-      - zdb_cache.py
+      - cache_dla.py
       - Taskfile.yml
     generates:
-      - output/zdb-cache.tsv
+      - cache/cache-dla-zdb.tsv
+      - cache/cache-dla-issn.tsv
     preconditions:
       - command -v python3
 
-  main:
-    desc: Transformation EZB-Daten in DLA-OPAC-Internformat
+  cache-zdb:
+    desc: Abruf der ZDB-Daten und Erstellung des lokalen Cache
     cmds:
-      - python3 ezb_dla_opac.py --input input/ezb-dla-kbart.tsv --zdb-cache output/zdb-cache.tsv --output output/ezb.tsv
+      - python3 cache_zdb.py
     sources:
       - input/ezb-dla-kbart.tsv
-      - output/zdb-cache.tsv
+      - cache_zdb.py
+      - Taskfile.yml
+    generates:
+      - cache/cache-zdb.tsv
+    preconditions:
+      - command -v python3
+
+  transform:
+    desc: Transformation EZB-Daten in DLA-OPAC-Internformat
+    cmds:
+      - python3 ezb_dla_opac.py --input input/ezb-dla-kbart.tsv --zdb-cache cache/cache-zdb.tsv --output output/ezb.tsv
+    sources:
+      - input/ezb-dla-kbart.tsv
+      - cache/cache-zdb.tsv
       - ezb_dla_opac.py
       - Taskfile.yml
     generates:
