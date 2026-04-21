@@ -2,6 +2,8 @@
 
 version: '3'
 
+method: none
+
 tasks:
   default:
     cmds:
@@ -38,13 +40,16 @@ tasks:
   transform:
     desc: Transformation EZB-Daten in DLA-OPAC-Internformat
     cmds:
-      - python3 ezb_dla_opac.py --input input/ezb-dla-kbart.tsv --zdb-cache cache/cache-zdb.tsv --output output/ezb.tsv
+      - python3 ezb_dla_opac.py --input input/ezb-dla-kbart.tsv --output output/ezb.tsv
     sources:
       - input/ezb-dla-kbart.tsv
+      - cache/cache-dla-zdb.tsv
+      - cache/cache-dla-issn.tsv
       - cache/cache-zdb.tsv
       - ezb_dla_opac.py
       - Taskfile.yml
     generates:
       - output/ezb.tsv
+      - output/links-az-ezb.csv
     preconditions:
       - command -v python3

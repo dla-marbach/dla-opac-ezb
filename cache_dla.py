@@ -15,7 +15,7 @@ import pandas as pd
 QUERY_URL = (
 	'https://dataservice.dla-marbach.de/v1/records?'
 	'q=%28identifier_type_mv%3A572z%20OR%20issn_mv%3A%2A%29%20AND%20filterSource%3A%20Bibliotheksmaterialien'
-	'&format=json&fields=id,identifier_id_mv,identifier_type_mv,issn_mv&sort=id%20desc'
+	'&format=json&fl=id,identifier_id_mv,identifier_type_mv,issn_mv,display&sort=id%20desc'
 )
 
 
@@ -58,6 +58,18 @@ def normalize_list(values):
 		return []
 
 	return [str(value).strip() for value in values if str(value).strip()]
+
+
+def normalize_display(value):
+	"""Return a normalized display string from scalar or list values."""
+	if isinstance(value, list):
+		for entry in value:
+			cleaned = str(entry).strip()
+			if cleaned:
+				return cleaned
+		return ''
+
+	return str(value).strip() if value is not None else ''
 
 
 def extract_zdb_ids(identifier_ids, identifier_types):
@@ -105,13 +117,15 @@ for idx, record in enumerate(records, start=1):
 	if not record_id:
 		continue
 
+	record_display = normalize_display(record.get('display', ''))
+
 	zdb_ids = extract_zdb_ids(record.get('identifier_id_mv', []), record.get('identifier_type_mv', []))
 
 	for zdb_id in zdb_ids:
-		zdb_rows.append({'id': record_id, 'zdb': zdb_id})
+		zdb_rows.append({'id': record_id, 'display': record_display, 'zdb': zdb_id})
 
 	for issn in normalize_list(record.get('issn_mv', [])):
-		issn_rows.append({'id': record_id, 'issn': issn})
+		issn_rows.append({'id': record_id, 'display': record_display, 'issn': issn})
 
 	if idx == 1 or idx % 500 == 0 or idx == total_records:
 		print_progress(idx, total_records, start_time, record_id)
@@ -119,8 +133,8 @@ for idx, record in enumerate(records, start=1):
 if total_records:
 	print('')
 
-df_zdb = pd.DataFrame(zdb_rows, columns=['id', 'zdb'])
-df_issn = pd.DataFrame(issn_rows, columns=['id', 'issn'])
+df_zdb = pd.DataFrame(zdb_rows, columns=['id', 'display', 'zdb'])
+df_issn = pd.DataFrame(issn_rows, columns=['id', 'display', 'issn'])
 
 # Export
 (df_zdb
