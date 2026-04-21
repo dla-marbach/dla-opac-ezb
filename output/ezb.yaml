@@ -49,7 +49,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005112
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Časopis pro moderní filologii
+  relation_text_mv: Časopis pro moderní filologii
 - id: EZB246294
   display: Časopis pro Moderní Filologii = Journal for Modern Philology (2013-)
   title: Časopis pro Moderní Filologii = Journal for Modern Philology (2013-)
@@ -75,7 +75,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005112
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Časopis pro moderní filologii
+  relation_text_mv: Časopis pro moderní filologii
 - id: EZB179807
   display: "Česlovo Milo\x9Ao Skaitymai = Czeslaw Milosz\x92s Readings"
   title: "Česlovo Milo\x9Ao Skaitymai = Czeslaw Milosz\x92s Readings"
@@ -221,8 +221,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008801
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'ABI-Technik : Zeitschrift für Automation, Bau und Technik
-    im Archiv-, Bibliotheks- und Informationswesen'
+  relation_text_mv: 'ABI-Technik : Zeitschrift für Automation, Bau und Technik im
+    Archiv-, Bibliotheks- und Informationswesen'
 - id: EZB486939
   display: 'ABI-Technik: Zeitschrift für Automation, Bau und Technik im Archiv-, Bibliotheks-
     und Informationswesen (2022-)'
@@ -250,8 +250,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008801
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'ABI-Technik : Zeitschrift für Automation, Bau und Technik
-    im Archiv-, Bibliotheks- und Informationswesen'
+  relation_text_mv: 'ABI-Technik : Zeitschrift für Automation, Bau und Technik im
+    Archiv-, Bibliotheks- und Informationswesen'
 - id: EZB476261
   display: Academic Journal of Modern Philology
   title: Academic Journal of Modern Philology
@@ -557,7 +557,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01788492
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Acta philosophica : rivista internazionale di filosofia'
+  relation_text_mv: 'Acta philosophica : rivista internazionale di filosofia'
 - id: EZB136750
   display: Acta Semiotica Estica
   title: Acta Semiotica Estica
@@ -677,7 +677,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00022389␟AK00181568
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Germanistica Pragensia␟[Acta Universitatis Carolinae / Philologica
+  relation_text_mv: Germanistica Pragensia␟[Acta Universitatis Carolinae / Philologica
     / Monographia] Philologica. Monographia
 - id: EZB532387
   display: Acta Universitatis Christianae Partiensis. Studia Culturale
@@ -726,7 +726,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01010478
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Folia Germanica
+  relation_text_mv: Folia Germanica
 - id: EZB221675
   display: Acta Universitatis Lodziensis. Folia Librorum
   title: Acta Universitatis Lodziensis. Folia Librorum
@@ -960,7 +960,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00007784
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Agathon
+  relation_text_mv: Agathon
 - id: EZB137102
   display: 'Agonist, The : A Nietzsche Circle Journal'
   title: 'Agonist, The : A Nietzsche Circle Journal'
@@ -1033,8 +1033,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00006836
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: '[Die Aktion <Berlin, 1911 ->] Die Aktion : Zeitschrift für
-    freiheitliche Politik und Literatur'
+  relation_text_mv: '[Die Aktion <Berlin, 1911 ->] Die Aktion : Zeitschrift für freiheitliche
+    Politik und Literatur'
 - id: EZB135135
   display: Albanian & Ladies' Literary Repository
   title: Albanian & Ladies' Literary Repository
@@ -1555,7 +1555,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00049669
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Anachronia : esprit contre temps, spirit against time, Geist
+  relation_text_mv: 'Anachronia : esprit contre temps, spirit against time, Geist
     gegen Zeit'
 - id: EZB185670
   display: 'ANADISS : revue du Centre de Recherche Analyse du Discours : journal of
@@ -1997,8 +1997,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00993678
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Angermion : yearbook for Anglo-German literary criticism,
-    intellectual history and cultural transfer ; Jahrbuch für britisch-deutsche Kulturbeziehungen
+  relation_text_mv: 'Angermion : yearbook for Anglo-German literary criticism, intellectual
+    history and cultural transfer ; Jahrbuch für britisch-deutsche Kulturbeziehungen
     ; yearbook of the Centre for Anglo-German Cultural Relations at Queen Mary, University
     of London'
 - id: EZB176977
@@ -2025,7 +2025,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005624
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Annalen der Philosophie
+  relation_text_mv: Annalen der Philosophie
 - id: EZB110824
   display: Annalen der Philosophie und philosophischen Kritik
   title: Annalen der Philosophie und philosophischen Kritik
@@ -2050,7 +2050,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01197238
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Annalen der Philosophie und philosophischen Kritik
+  relation_text_mv: Annalen der Philosophie und philosophischen Kritik
 - id: EZB197554
   display: 'Annales : Etyka w Zyciu Gospodarczym'
   title: 'Annales : Etyka w Zyciu Gospodarczym'
@@ -2502,8 +2502,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00006042
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Arbitrium : Zeitschrift für Rezensionen zur germanistischen
-    Literaturwissenschaft'
+  relation_text_mv: 'Arbitrium : Zeitschrift für Rezensionen zur germanistischen Literaturwissenschaft'
 - id: EZB46683
   display: 'Arcadia: International Journal of Literary Culture - Internationale Zeitschrift
     für literarische Kultur'
@@ -2531,7 +2530,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003573
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Arcadia : international journal of literary culture'
+  relation_text_mv: 'Arcadia : international journal of literary culture'
 - id: EZB64627
   display: 'Arcadia: Zeitschrift für Allgemeine und Vergleichende Literaturwissenschaft'
   title: 'Arcadia: Zeitschrift für Allgemeine und Vergleichende Literaturwissenschaft'
@@ -2557,7 +2556,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003573
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Arcadia : international journal of literary culture'
+  relation_text_mv: 'Arcadia : international journal of literary culture'
 - id: EZB129813
   display: 'Archaeologia Americana: Transactions and Collections of the American Antiquarian
     Society'
@@ -2629,7 +2628,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005188
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Archiv für Begriffsgeschichte
+  relation_text_mv: Archiv für Begriffsgeschichte
 - id: EZB477515
   display: Archiv für Begriffsgeschichte (AfB) (2001-)
   title: Archiv für Begriffsgeschichte (AfB) (2001-)
@@ -2655,7 +2654,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005188
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Archiv für Begriffsgeschichte
+  relation_text_mv: Archiv für Begriffsgeschichte
 - id: EZB240722
   display: Archiv für Begriffsgeschichte (AfB)
   title: Archiv für Begriffsgeschichte (AfB)
@@ -2681,7 +2680,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005188
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Archiv für Begriffsgeschichte
+  relation_text_mv: Archiv für Begriffsgeschichte
 - id: EZB110161
   display: Archiv für das Studium der neueren Sprachen und Literaturen
   title: Archiv für das Studium der neueren Sprachen und Literaturen
@@ -2707,7 +2706,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00002886␟AK01440232
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Archiv für das Studium der neueren Sprachen und Literaturen␟Archiv
+  relation_text_mv: Archiv für das Studium der neueren Sprachen und Literaturen␟Archiv
     für das Studium der neueren Sprachen und Literaturen
 - id: EZB10078
   display: Archiv für Geschichte der Philosophie (1888 - 2024)
@@ -2879,7 +2878,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00579581
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Archivio di filosofia
+  relation_text_mv: Archivio di filosofia
 - id: EZB51913
   display: Archivum Lithuanicum
   title: Archivum Lithuanicum
@@ -3028,7 +3027,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00006849
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Argonauten : eine Monatsschr.'
+  relation_text_mv: 'Die Argonauten : eine Monatsschr.'
 - id: EZB200118
   display: 'Argument : Biannual Philosophical Journal'
   title: 'Argument : Biannual Philosophical Journal'
@@ -3056,7 +3055,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01383127
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Argument : biannual philosophical journal'
+  relation_text_mv: 'Argument : biannual philosophical journal'
 - id: EZB2341
   display: 'Argumentation : An International Journal on Reasoning'
   title: 'Argumentation : An International Journal on Reasoning'
@@ -3229,7 +3228,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00263286
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Arkadia : ein Jahrbuch für Dichtkunst'
+  relation_text_mv: 'Arkadia : ein Jahrbuch für Dichtkunst'
 - id: EZB473323
   display: Arkivat Shqiptare = Albanian Archives
   title: Arkivat Shqiptare = Albanian Archives
@@ -3442,7 +3441,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008309
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Aufschwung : Zeitschr. d. Jüngsten'
+  relation_text_mv: 'Aufschwung : Zeitschr. d. Jüngsten'
 - id: EZB308718
   display: 'Autobiografia : Literatura, Kultura, Media (Aa@) = Autobiography : Literature,
     Culture, Media'
@@ -3606,7 +3605,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008990
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Bastard : Schrift gegen die Zeit'
+  relation_text_mv: 'Der Bastard : Schrift gegen die Zeit'
 - id: EZB130287
   display: Beiblatt der Bücherei Maiandros, Das
   title: Beiblatt der Bücherei Maiandros, Das
@@ -3631,7 +3630,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009009
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: '[Die Bücherei Maiandros / Beiblatt] Das Beiblatt der Bücherei
+  relation_text_mv: '[Die Bücherei Maiandros / Beiblatt] Das Beiblatt der Bücherei
     Maiandros : e. Zeitschr. von 60 zu 60 Tagen'
 - id: EZB493438
   display: Beiträge zur allgemeinen und vergleichenden Sprachwissenschaft = Contributions
@@ -3682,7 +3681,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00002911␟AK00002909
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Beiträge zur Geschichte der deutschen Sprache und Literatur␟Beiträge
+  relation_text_mv: Beiträge zur Geschichte der deutschen Sprache und Literatur␟Beiträge
     zur Geschichte der deutschen Sprache und Literatur
 - id: EZB62125
   display: Beiträge zur Geschichte der Deutschen Sprache und Literatur (PBB West,
@@ -3710,7 +3709,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00002911
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Beiträge zur Geschichte der deutschen Sprache und Literatur
+  relation_text_mv: Beiträge zur Geschichte der deutschen Sprache und Literatur
 - id: EZB103835
   display: Beiträge zur Geschichte der Deutschen Sprache und Literatur (PBB, Paul-Braunes
     Beiträge) (1874 -)
@@ -3738,7 +3737,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00002911
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Beiträge zur Geschichte der deutschen Sprache und Literatur
+  relation_text_mv: Beiträge zur Geschichte der deutschen Sprache und Literatur
 - id: EZB124921
   display: 'Belfagor : Rassegna di Varia Umanità'
   title: 'Belfagor : Rassegna di Varia Umanità'
@@ -3875,7 +3874,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01831608
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Berlin Review : Zeitschrift für Bücher und Ideen. - Reader'
+  relation_text_mv: 'Berlin Review : Zeitschrift für Bücher und Ideen. - Reader'
 - id: EZB129176
   display: Berliner Romantik
   title: Berliner Romantik
@@ -3900,7 +3899,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008987
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Berliner Romantik
+  relation_text_mv: Berliner Romantik
 - id: EZB133135
   display: 'Bianco e il Nero, Il: Studi di Filologia e di Letteratura'
   title: 'Bianco e il Nero, Il: Studi di Filologia e di Letteratura'
@@ -4189,7 +4188,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005831
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Bibliothek : Forschung und Praxis'
+  relation_text_mv: 'Bibliothek : Forschung und Praxis'
 - id: EZB262
   display: 'Bibliothek : Forschung und Praxis (1977-2020)'
   title: 'Bibliothek : Forschung und Praxis (1977-2020)'
@@ -4215,7 +4214,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005831
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Bibliothek : Forschung und Praxis'
+  relation_text_mv: 'Bibliothek : Forschung und Praxis'
 - id: EZB42550
   display: 'Bibliothek : Forschung und Praxis (2011-)'
   title: 'Bibliothek : Forschung und Praxis (2011-)'
@@ -4241,7 +4240,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005831
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Bibliothek : Forschung und Praxis'
+  relation_text_mv: 'Bibliothek : Forschung und Praxis'
 - id: EZB35941
   display: Bibliothek und Wissenschaft (BuW)
   title: Bibliothek und Wissenschaft (BuW)
@@ -4266,7 +4265,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00002935
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Bibliothek und Wissenschaft : BuW'
+  relation_text_mv: 'Bibliothek und Wissenschaft : BuW'
 - id: EZB33526
   display: Bibliothek und Wissenschaft (BuW) (2001-2010)
   title: Bibliothek und Wissenschaft (BuW) (2001-2010)
@@ -4291,7 +4290,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00002935
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Bibliothek und Wissenschaft : BuW'
+  relation_text_mv: 'Bibliothek und Wissenschaft : BuW'
 - id: EZB193781
   display: Bibliotheksdienst (1967-2021)
   title: Bibliotheksdienst (1967-2021)
@@ -4317,7 +4316,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00002938
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Bibliotheksdienst
+  relation_text_mv: Bibliotheksdienst
 - id: EZB486940
   display: Bibliotheksdienst (2022-)
   title: Bibliotheksdienst (2022-)
@@ -4343,7 +4342,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00002938
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Bibliotheksdienst
+  relation_text_mv: Bibliotheksdienst
 - id: EZB124922
   display: Bilingual Review, The
   title: Bilingual Review, The
@@ -4415,7 +4414,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00111012
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Biography : an interdisciplinary quarterly'
+  relation_text_mv: 'Biography : an interdisciplinary quarterly'
 - id: EZB2344
   display: Biology & Philosophy
   title: Biology & Philosophy
@@ -4534,7 +4533,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00007700
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der blutige Ernst : satirische Wochenschrift'
+  relation_text_mv: 'Der blutige Ernst : satirische Wochenschrift'
 - id: EZB120321
   display: Bollettino del Centro di Studi Vichiani
   title: Bollettino del Centro di Studi Vichiani
@@ -4737,7 +4736,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005916
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Books abroad : an international literary quarterly'
+  relation_text_mv: 'Books abroad : an international literary quarterly'
 - id: EZB163105
   display: 'Bookseller : A Handbook of British & Foreign Literature'
   title: 'Bookseller : A Handbook of British & Foreign Literature'
@@ -4970,7 +4969,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00565858
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Brand : Monatsschrift für revolutionäre Dichtung'
+  relation_text_mv: 'Der Brand : Monatsschrift für revolutionäre Dichtung'
 - id: EZB130286
   display: Brenner, Der
   title: Brenner, Der
@@ -4995,7 +4994,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005303
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Brenner : Halbmonatsschrift für Kunst und Kultur'
+  relation_text_mv: 'Der Brenner : Halbmonatsschrift für Kunst und Kultur'
 - id: EZB7516
   display: British Journal of Aesthetics, The
   title: British Journal of Aesthetics, The
@@ -5068,7 +5067,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00011335
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Brücken : Zeitschrift für Sprach-, Literatur- und Kulturwissenschaft'
+  relation_text_mv: 'Brücken : Zeitschrift für Sprach-, Literatur- und Kulturwissenschaft'
 - id: EZB35798
   display: Bruniana e Campanelliana (2002 -)
   title: Bruniana e Campanelliana (2002 -)
@@ -5141,7 +5140,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005919
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Bücherei Maiandros : eine Zeitschrift von 60 zu 60 Tagen'
+  relation_text_mv: 'Die Bücherei Maiandros : eine Zeitschrift von 60 zu 60 Tagen'
 - id: EZB125563
   display: Bücherkiste, Die
   title: Bücherkiste, Die
@@ -5166,8 +5165,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008220
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Bücherkiste : Monatsschrift für Literatur, Graphik u.
-    Buchbesprechung'
+  relation_text_mv: 'Die Bücherkiste : Monatsschrift für Literatur, Graphik u. Buchbesprechung'
 - id: EZB505476
   display: Bukarester Beiträge zur Germanistik = Bucharest Contributions to German
     Studies
@@ -5410,7 +5408,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009229
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Bulletin D
+  relation_text_mv: Bulletin D
 - id: EZB176771
   display: Bulletin of Harvard College Library
   title: Bulletin of Harvard College Library
@@ -5601,7 +5599,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009226
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: '[Cabaret Voltaire / Deutsche Ausgabe] Cabaret Voltaire'
+  relation_text_mv: '[Cabaret Voltaire / Deutsche Ausgabe] Cabaret Voltaire'
 - id: EZB115097
   display: 'Cabinet, The : a Monthly Magazine of Polite Literature (formerly: The
     Cabinet, or Monthly Report of Polite Literature)'
@@ -6066,7 +6064,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00006045
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Chloe : Beihefte zum Daphnis'
+  relation_text_mv: 'Chloe : Beihefte zum Daphnis'
 - id: EZB170150
   display: 'Chora : Revue d''Études Anciennes et Médiévales'
   title: 'Chora : Revue d''Études Anciennes et Médiévales'
@@ -6423,7 +6421,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00014717
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Colloquia Germanica Stetinensia : [Konferenzschrift]'
+  relation_text_mv: 'Colloquia Germanica Stetinensia : [Konferenzschrift]'
 - id: EZB64662
   display: 'Colloquia Germanica: Internationale Zeitschrift für Germanische Sprach-
     und Literaturwissenschaft'
@@ -6451,7 +6449,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00002977
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Colloquia Germanica : internationale Zeitschrift für Germanistik'
+  relation_text_mv: 'Colloquia Germanica : internationale Zeitschrift für Germanistik'
 - id: EZB135422
   display: Colman's Book Advertiser
   title: Colman's Book Advertiser
@@ -6594,8 +6592,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005447
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Comparative literature : CL ; the official journal of the
-    American Comparative Literature Association'
+  relation_text_mv: 'Comparative literature : CL ; the official journal of the American
+    Comparative Literature Association'
 - id: EZB64665
   display: Comparative Literature
   title: Comparative Literature
@@ -6621,8 +6619,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005447
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Comparative literature : CL ; the official journal of the
-    American Comparative Literature Association'
+  relation_text_mv: 'Comparative literature : CL ; the official journal of the American
+    Comparative Literature Association'
 - id: EZB115109
   display: Compleat Library, or, News for the Ingenious
   title: Compleat Library, or, News for the Ingenious
@@ -6979,7 +6977,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01443980
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Continental philosophy review
+  relation_text_mv: Continental philosophy review
 - id: EZB146434
   display: Convivium - Germanistisches Jahrbuch Polen
   title: Convivium - Germanistisches Jahrbuch Polen
@@ -7005,8 +7003,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00035984␟AK01382509
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Convivium : germanistisches Jahrbuch Polen : [Bibliographie
-    enthalten]␟Deutsch-polnisches Jahrbuch der Germanistik'
+  relation_text_mv: 'Convivium : germanistisches Jahrbuch Polen : [Bibliographie enthalten]␟Deutsch-polnisches
+    Jahrbuch der Germanistik'
 - id: EZB53241
   display: Corpus Linguistics and Linguistic Theory (2005 -2024)
   title: Corpus Linguistics and Linguistic Theory (2005 -2024)
@@ -7295,7 +7293,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00031838
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Cultura tedesca : rivista semestrale = Deutsche Kultur'
+  relation_text_mv: 'Cultura tedesca : rivista semestrale = Deutsche Kultur'
 - id: EZB312820
   display: Cultural Intertexts
   title: Cultural Intertexts
@@ -7367,7 +7365,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003958
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Dachstube : Flugblätter'
+  relation_text_mv: 'Die Dachstube : Flugblätter'
 - id: EZB130293
   display: Dada, Der
   title: Dada, Der
@@ -7393,7 +7391,7 @@
   relation_id_mv: AK00566640␟AK01471576␟AK00008998
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe␟Erscheint
     auch als Druck-Ausgabe
-  relation_display_mv: Dada␟Dada au grand air␟Der Dada
+  relation_text_mv: Dada␟Dada au grand air␟Der Dada
 - id: EZB127784
   display: Dadameter, Die Schammade
   title: Dadameter, Die Schammade
@@ -7418,7 +7416,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009230
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Dadameter, Die Schammade
+  relation_text_mv: Dadameter, Die Schammade
 - id: EZB125554
   display: Daimon
   title: Daimon
@@ -7443,7 +7441,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005680
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Daimon : eine Monatsschrift'
+  relation_text_mv: 'Daimon : eine Monatsschrift'
 - id: EZB4873
   display: 'Daphnis : Zeitschrift für Mittlere Deutsche Literatur'
   title: 'Daphnis : Zeitschrift für Mittlere Deutsche Literatur'
@@ -7469,8 +7467,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003602
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Daphnis : Zeitschrift für mittlere deutsche Literatur und
-    Kultur der frühen Neuzeit (1400 - 1750)'
+  relation_text_mv: 'Daphnis : Zeitschrift für mittlere deutsche Literatur und Kultur
+    der frühen Neuzeit (1400 - 1750)'
 - id: EZB66743
   display: Darbai ir Dienos = Deeds and days
   title: Darbai ir Dienos = Deeds and days
@@ -7569,8 +7567,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004594
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Deutsche Vierteljahrsschrift für Literaturwissenschaft und
-    Geistesgeschichte : DVJS'
+  relation_text_mv: 'Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte
+    : DVJS'
 - id: EZB64207
   display: Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte
     (DVjs)
@@ -7597,8 +7595,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004594
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Deutsche Vierteljahrsschrift für Literaturwissenschaft und
-    Geistesgeschichte : DVJS'
+  relation_text_mv: 'Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte
+    : DVJS'
 - id: EZB64677
   display: Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte
   title: Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte
@@ -7624,8 +7622,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004594
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Deutsche Vierteljahrsschrift für Literaturwissenschaft und
-    Geistesgeschichte : DVJS'
+  relation_text_mv: 'Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte
+    : DVJS'
 - id: EZB87
   display: Deutsche Zeitschrift für Philosophie
   title: Deutsche Zeitschrift für Philosophie
@@ -7651,7 +7649,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004682␟AK00100060
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Deutsche Zeitschrift für Philosophie : Zweimonatsschrift der
+  relation_text_mv: 'Deutsche Zeitschrift für Philosophie : Zweimonatsschrift der
     internationalen philosophischen Forschung␟[Deutsche Zeitschrift für Philosophie
     / Digitale Gesamtausgabe] Digitale Gesamtausgabe : Zweimonatsschrift der internationalen
     philosophischen Forschung'
@@ -7680,7 +7678,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004682␟AK00100060
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Deutsche Zeitschrift für Philosophie : Zweimonatsschrift der
+  relation_text_mv: 'Deutsche Zeitschrift für Philosophie : Zweimonatsschrift der
     internationalen philosophischen Forschung␟[Deutsche Zeitschrift für Philosophie
     / Digitale Gesamtausgabe] Digitale Gesamtausgabe : Zweimonatsschrift der internationalen
     philosophischen Forschung'
@@ -7927,7 +7925,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01274184
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Dianoia : rivista del Dipartimento di Filosofia'
+  relation_text_mv: 'Dianoia : rivista del Dipartimento di Filosofia'
 - id: EZB125150
   display: Dichtung, Die
   title: Dichtung, Die
@@ -7952,7 +7950,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00006003
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Die Dichtung
+  relation_text_mv: Die Dichtung
 - id: EZB466848
   display: Digital Age in Semiotics & Communication
   title: Digital Age in Semiotics & Communication
@@ -8169,8 +8167,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00006473
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Diogenes : Veröffentlichungen für Dichtung der Gegenwart ;
-    Veröffentl. d. Gesellschaft d. Kammerkunstabende Brandt-Jacoby'
+  relation_text_mv: 'Diogenes : Veröffentlichungen für Dichtung der Gegenwart ; Veröffentl.
+    d. Gesellschaft d. Kammerkunstabende Brandt-Jacoby'
 - id: EZB125215
   display: Discourse
   title: Discourse
@@ -8196,7 +8194,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009151
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Discourse : theoretical studies in media and culture'
+  relation_text_mv: 'Discourse : theoretical studies in media and culture'
 - id: EZB465302
   display: Discourse and Interaction
   title: Discourse and Interaction
@@ -8314,7 +8312,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01642506
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Drei Raben : Zeitschrift für ungarische Kultur'
+  relation_text_mv: 'Drei Raben : Zeitschrift für ungarische Kultur'
 - id: EZB40218
   display: Duitse Kroniek
   title: Duitse Kroniek
@@ -8339,7 +8337,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003836
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Duitse kroniek : DK ; tweemaadelijksorgan van de Coordinatie
+  relation_text_mv: 'Duitse kroniek : DK ; tweemaadelijksorgan van de Coordinatie
     Commissie voor Culturele Betrekkingen met Duitsland'
 - id: EZB473300
   display: Dzieciństwo, Literatura i Kultura = Childhood, Literature and Culture
@@ -8434,7 +8432,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009105
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Editio : internationales Jahrbuch für Editionswissenschaft'
+  relation_text_mv: 'Editio : internationales Jahrbuch für Editionswissenschaft'
 - id: EZB60134
   display: Eesti Rakenduslingvistika Ühingu Aastaraamat = Estonian Papers in Applied
     Linguistics
@@ -8484,7 +8482,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009223
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Der Einzige
+  relation_text_mv: Der Einzige
 - id: EZB5338
   display: Electronic Library, The
   title: Electronic Library, The
@@ -8786,7 +8784,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00263596
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Erhebung : Jahrbuch für neue Dichtung u. Wertung : [Textsammlung
+  relation_text_mv: 'Die Erhebung : Jahrbuch für neue Dichtung u. Wertung : [Textsammlung
     (Anthologie u.a.m.)]'
 - id: EZB6219
   display: Erkenntnis
@@ -8908,7 +8906,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01176097
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Essays in criticism : a quarterly journal of literary criticism'
+  relation_text_mv: 'Essays in criticism : a quarterly journal of literary criticism'
 - id: EZB51951
   display: Esztétikai Szemle = Aesthetic Review
   title: Esztétikai Szemle = Aesthetic Review
@@ -9198,7 +9196,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003010
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Europe : revue littéraire mensuelle'
+  relation_text_mv: 'Europe : revue littéraire mensuelle'
 - id: EZB198728
   display: European Journal of Applied Linguistics (2013 - 2024)
   title: European Journal of Applied Linguistics (2013 - 2024)
@@ -9269,7 +9267,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009016
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Evoe : Zeitschr. für modernes Theater'
+  relation_text_mv: 'Evoe : Zeitschr. für modernes Theater'
 - id: EZB51955
   display: EX Symposion
   title: EX Symposion
@@ -9364,7 +9362,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003014
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Fabula
+  relation_text_mv: Fabula
 - id: EZB64695
   display: Fabula
   title: Fabula
@@ -9390,7 +9388,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003014
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Fabula
+  relation_text_mv: Fabula
 - id: EZB110300
   display: Facta Universitatis. Series Linguistics and Literature
   title: Facta Universitatis. Series Linguistics and Literature
@@ -9439,7 +9437,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005652
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Feuerreiter : Blätter für Dichtung und Kritik'
+  relation_text_mv: 'Der Feuerreiter : Blätter für Dichtung und Kritik'
 - id: EZB35802
   display: Fictions
   title: Fictions
@@ -9819,8 +9817,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00007713
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Flöte : Monatsschrift für neue Dichtung ; Zeitschrift
-    des Künstlerdanks'
+  relation_text_mv: 'Die Flöte : Monatsschrift für neue Dichtung ; Zeitschrift des
+    Künstlerdanks'
 - id: EZB125501
   display: Flugblatt, Das
   title: Flugblatt, Das
@@ -9845,7 +9843,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00007985
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Das Flugblatt
+  relation_text_mv: Das Flugblatt
 - id: EZB52771
   display: Folia Linguistica (inkl. Folia Linguistica Historica)
   title: Folia Linguistica (inkl. Folia Linguistica Historica)
@@ -10106,7 +10104,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003023
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Forum for modern language studies : the journal of literary,
+  relation_text_mv: 'Forum for modern language studies : the journal of literary,
     cultural and linguistic studies from the middle ages to the present'
 - id: EZB238345
   display: Forum Lingwistyczne = Linguistic Forum
@@ -10273,7 +10271,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009024
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Die freie Strasse
+  relation_text_mv: Die freie Strasse
 - id: EZB128793
   display: Freude, Die
   title: Freude, Die
@@ -10298,7 +10296,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009014
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Freude : Blätter e. neuen Gesinnung'
+  relation_text_mv: 'Die Freude : Blätter e. neuen Gesinnung'
 - id: EZB125493
   display: Friede, Der
   title: Friede, Der
@@ -10323,8 +10321,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003952
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Friede : Wochenschrift für Politik, Volkswirtschaft und
-    Literatur'
+  relation_text_mv: 'Der Friede : Wochenschrift für Politik, Volkswirtschaft und Literatur'
 - id: EZB314505
   display: Frontiers of Narrative Studies
   title: Frontiers of Narrative Studies
@@ -10486,7 +10483,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005684
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Die Gefährten
+  relation_text_mv: Die Gefährten
 - id: EZB125498
   display: Gegner, Der
   title: Gegner, Der
@@ -10511,7 +10508,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008671
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Gegner : Blätter zur Kritik der Zeit'
+  relation_text_mv: 'Der Gegner : Blätter zur Kritik der Zeit'
 - id: EZB129327
   display: Genius
   title: Genius
@@ -10536,7 +10533,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00007941
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Genius : Zeitschrift für werdende und alte Kunst'
+  relation_text_mv: 'Genius : Zeitschrift für werdende und alte Kunst'
 - id: EZB109618
   display: Georg-Büchner-Jahrbuch (Georg Büchner Yearbook)
   title: Georg-Büchner-Jahrbuch (Georg Büchner Yearbook)
@@ -10562,7 +10559,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009070
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Georg-Büchner-Jahrbuch
+  relation_text_mv: Georg-Büchner-Jahrbuch
 - id: EZB140261
   display: George-Jahrbuch
   title: George-Jahrbuch
@@ -10588,7 +10585,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00036169
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: George-Jahrbuch
+  relation_text_mv: George-Jahrbuch
 - id: EZB4098
   display: German Life and Letters
   title: German Life and Letters
@@ -10614,7 +10611,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003219
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: German life and letters
+  relation_text_mv: German life and letters
 - id: EZB93270
   display: German Monitor
   title: German Monitor
@@ -10640,7 +10637,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00017142
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'German monitor : GM'
+  relation_text_mv: 'German monitor : GM'
 - id: EZB64705
   display: German Quarterly (-1995)
   title: German Quarterly (-1995)
@@ -10666,7 +10663,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005031
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The German quarterly : a journal of the American Association
+  relation_text_mv: 'The German quarterly : a journal of the American Association
     of Teachers of German'
 - id: EZB104493
   display: German Quarterly, The (2005 -)
@@ -10695,7 +10692,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005031
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The German quarterly : a journal of the American Association
+  relation_text_mv: 'The German quarterly : a journal of the American Association
     of Teachers of German'
 - id: EZB31366
   display: German Quarterly, The
@@ -10723,7 +10720,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005031
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The German quarterly : a journal of the American Association
+  relation_text_mv: 'The German quarterly : a journal of the American Association
     of Teachers of German'
 - id: EZB64706
   display: 'Germanic Review : Literature, Culture, Theory'
@@ -10751,7 +10748,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005933
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The Germanic review : literature, culture, theory'
+  relation_text_mv: 'The Germanic review : literature, culture, theory'
 - id: EZB90889
   display: 'Germanic Review, The : Literature, Culture, Theory (1940-)'
   title: 'Germanic Review, The : Literature, Culture, Theory (1940-)'
@@ -10778,7 +10775,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005933
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The Germanic review : literature, culture, theory'
+  relation_text_mv: 'The Germanic review : literature, culture, theory'
 - id: EZB499591
   display: Germanica Wratislaviensia
   title: Germanica Wratislaviensia
@@ -10804,7 +10801,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00018272␟AK00022401
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Acta Universitatis Wratislaviensis␟Germanica Wratislaviensia
+  relation_text_mv: Acta Universitatis Wratislaviensis␟Germanica Wratislaviensia
 - id: EZB115794
   display: Germanistik
   title: Germanistik
@@ -10830,7 +10827,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00036178␟AK00148527
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: '[Germanistik <Tübingen>] Germanistik : internationales Referatenorgan
+  relation_text_mv: '[Germanistik <Tübingen>] Germanistik : internationales Referatenorgan
     mit bibliographischen Hinweisen : [Bibliographie]␟[Germanistik,Tübingen,DE] Germanistik
     : internationales Referatenorgan mit bibliographischen Hinweisen ; elektronische
     Version der Germanistik ... : [Bibliographie]'
@@ -10884,7 +10881,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005479
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Germanoslavica : Zeitschrift für germano-slawische Studien'
+  relation_text_mv: 'Germanoslavica : Zeitschrift für germano-slawische Studien'
 - id: EZB64959
   display: Giornale di Metafisica
   title: Giornale di Metafisica
@@ -11201,7 +11198,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003037
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Goethe : neue Folge d. Jahrbuchs d. Goethe-Gesellschaft'
+  relation_text_mv: 'Goethe : neue Folge d. Jahrbuchs d. Goethe-Gesellschaft'
 - id: EZB64206
   display: Goethe-Jahrbuch
   title: Goethe-Jahrbuch
@@ -11226,7 +11223,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003375
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Goethe-Jahrbuch
+  relation_text_mv: Goethe-Jahrbuch
 - id: EZB246304
   display: "Gradovrh - časopis za Knji\x9Eevno-Jezična, Dru\x9Atvena i Prirodnoznanstvena\
     \ Pitanja"
@@ -11299,7 +11296,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003041
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Gutenberg-Jahrbuch
+  relation_text_mv: Gutenberg-Jahrbuch
 - id: EZB149105
   display: 'Healing Body & Mind: American Medical Periodicals of the Eighteenth &
     Nineteenth Century'
@@ -11371,7 +11368,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00165517
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Hegel-Jahrbuch
+  relation_text_mv: Hegel-Jahrbuch
 - id: EZB235776
   display: Heidegger Studies = Heidegger Studien = Etudes Heideggeriennes
   title: Heidegger Studies = Heidegger Studien = Etudes Heideggeriennes
@@ -11399,7 +11396,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008933
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Heidegger studies = Heidegger-Studien = Études Heideggeriennes
+  relation_text_mv: Heidegger studies = Heidegger-Studien = Études Heideggeriennes
     = Studi Heideggeriani
 - id: EZB125499
   display: Herder-Blätter
@@ -11425,7 +11422,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005976
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Herder-Blätter
+  relation_text_mv: Herder-Blätter
 - id: EZB109619
   display: Hermann-Hesse-Jahrbuch
   title: Hermann-Hesse-Jahrbuch
@@ -11451,7 +11448,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00237826
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Hermann-Hesse-Jahrbuch : [Bibliographie enthalten]'
+  relation_text_mv: 'Hermann-Hesse-Jahrbuch : [Bibliographie enthalten]'
 - id: EZB466856
   display: 'Heteroglossia: Studia Kulturoznawczo-Filologiczne'
   title: 'Heteroglossia: Studia Kulturoznawczo-Filologiczne'
@@ -11571,7 +11568,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005649
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Das Hohe Ufer : eine Zeitschrift'
+  relation_text_mv: 'Das Hohe Ufer : eine Zeitschrift'
 - id: EZB51962
   display: Holmi = Things
   title: Holmi = Things
@@ -12193,7 +12190,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00047344␟AK00047347
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Nachrichten für Dokumentation : nfd ; Zeitschrift für Informationswissenschaft
+  relation_text_mv: 'Nachrichten für Dokumentation : nfd ; Zeitschrift für Informationswissenschaft
     und -praxis ; Mitteilungsblatt des Normenausschusses Bibliotheks- und Dokumentationswesen
     im DIN, Deutsches Institut für Normung e.V., des VDD - Berufsverband Information,
     Dokumentation, Kommunikation e.V. und der Arbeitsgemeinschaft der Spezialbibliotheken
@@ -12765,8 +12762,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004544
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Internationales Archiv für Sozialgeschichte der deutschen
-    Literatur : IASL'
+  relation_text_mv: 'Internationales Archiv für Sozialgeschichte der deutschen Literatur
+    : IASL'
 - id: EZB37765
   display: Internationales Jahrbuch des Deutschen Idealismus = International Yearbook
     of German Idealism
@@ -12794,7 +12791,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00690177
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Internationales Jahrbuch des deutschen Idealismus : IJDI'
+  relation_text_mv: 'Internationales Jahrbuch des deutschen Idealismus : IJDI'
 - id: EZB206595
   display: Internationales Jahrbuch für Philosophische Anthropologie
   title: Internationales Jahrbuch für Philosophische Anthropologie
@@ -12820,7 +12817,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01544444
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Internationales Jahrbuch für philosophische Anthropologie
+  relation_text_mv: Internationales Jahrbuch für philosophische Anthropologie
 - id: EZB66745
   display: Investigationes Linguisticae
   title: Investigationes Linguisticae
@@ -12963,7 +12960,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01339432
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Isegoría : revista de filosofía moral y política'
+  relation_text_mv: 'Isegoría : revista de filosofía moral y política'
 - id: EZB496972
   display: "Iskam \x9Aestica! = A Way to Straight-A"
   title: "Iskam \x9Aestica! = A Way to Straight-A"
@@ -13107,7 +13104,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003136
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Jahrbuch der Deutschen Schillergesellschaft : internationales
+  relation_text_mv: 'Jahrbuch der Deutschen Schillergesellschaft : internationales
     Organ für neuere deutsche Literatur : [Bibliographie enthalten]'
 - id: EZB65546
   display: Jahrbuch der Goethe-Gesellschaft
@@ -13133,7 +13130,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00022941
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Jahrbuch der Goethe-Gesellschaft
+  relation_text_mv: Jahrbuch der Goethe-Gesellschaft
 - id: EZB109620
   display: Jahrbuch der Jean-Paul-Gesellschaft
   title: Jahrbuch der Jean-Paul-Gesellschaft
@@ -13158,7 +13155,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003116
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Jahrbuch der Jean-Paul-Gesellschaft
+  relation_text_mv: Jahrbuch der Jean-Paul-Gesellschaft
 - id: EZB109621
   display: Jahrbuch der Raabe-Gesellschaft
   title: Jahrbuch der Raabe-Gesellschaft
@@ -13184,7 +13181,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003131␟AK00999115
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Jahrbuch der Raabe-Gesellschaft␟Jahrbuch der Raabe-Gesellschaft
+  relation_text_mv: 'Jahrbuch der Raabe-Gesellschaft␟Jahrbuch der Raabe-Gesellschaft
     ... : [Bibliographie enthalten]'
 - id: EZB128840
   display: Jahrbuch der Zeitschrift Das Neue Pathos, Das
@@ -13210,7 +13207,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008687
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Das Neue Pathos. - Jahrbuch
+  relation_text_mv: Das Neue Pathos. - Jahrbuch
 - id: EZB151153
   display: Jahrbuch für germanistische Sprachgeschichte
   title: Jahrbuch für germanistische Sprachgeschichte
@@ -13236,7 +13233,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01237187
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Jahrbuch für germanistische Sprachgeschichte : GGSG ; Perspektiven
+  relation_text_mv: 'Jahrbuch für germanistische Sprachgeschichte : GGSG ; Perspektiven
     der germanistischen Sprachgeschichtsforschung'
 - id: EZB60662
   display: Jahrbuch für Wissenschaft und Ethik
@@ -13377,7 +13374,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009000
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Jedermann sein eigner Fußball : illustrierte Halbmonatsschrift'
+  relation_text_mv: 'Jedermann sein eigner Fußball : illustrierte Halbmonatsschrift'
 - id: EZB493440
   display: Jednak Książki = Books Now
   title: Jednak Książki = Books Now
@@ -13426,7 +13423,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01604411
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Jelenkor : irodalmi és muvészeti folyóirat'
+  relation_text_mv: 'Jelenkor : irodalmi és muvészeti folyóirat'
 - id: EZB463142
   display: Journal for Ethics in Social Studies
   title: Journal for Ethics in Social Studies
@@ -13880,7 +13877,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003192
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of English and Germanic philology : JEGP'
+  relation_text_mv: 'Journal of English and Germanic philology : JEGP'
 - id: EZB84944
   display: Journal of English and Germanic Philology (JEGP)
   title: Journal of English and Germanic Philology (JEGP)
@@ -13906,7 +13903,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003192
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of English and Germanic philology : JEGP'
+  relation_text_mv: 'Journal of English and Germanic philology : JEGP'
 - id: EZB172112
   display: Journal of English as a Lingua Franca
   title: Journal of English as a Lingua Franca
@@ -14306,7 +14303,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005900␟AK01342336
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of the Australasian Universities Language and Literature
+  relation_text_mv: 'Journal of the Australasian Universities Language and Literature
     Association : a journal of literary, language and cultural studies␟Journal of
     language, literature and culture'
 - id: EZB203173
@@ -14404,7 +14401,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004281
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of literary semantics : JLS'
+  relation_text_mv: 'Journal of literary semantics : JLS'
 - id: EZB98026
   display: Journal of Literary Theory (2007-2021)
   title: Journal of Literary Theory (2007-2021)
@@ -14430,7 +14427,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00418393
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of literary theory : JLT ; new developments in literary
+  relation_text_mv: 'Journal of literary theory : JLT ; new developments in literary
     theory and related disciplines'
 - id: EZB488769
   display: Journal of Literary Theory (2022-)
@@ -14457,7 +14454,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00418393
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of literary theory : JLT ; new developments in literary
+  relation_text_mv: 'Journal of literary theory : JLT ; new developments in literary
     theory and related disciplines'
 - id: EZB2296
   display: Journal of Logic, Language and Information
@@ -14537,7 +14534,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01522688
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of modern literature : Jml'
+  relation_text_mv: 'Journal of modern literature : Jml'
 - id: EZB64774
   display: Journal of Modern Literature
   title: Journal of Modern Literature
@@ -14563,7 +14560,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01522688
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of modern literature : Jml'
+  relation_text_mv: 'Journal of modern literature : Jml'
 - id: EZB125377
   display: 'Journal of Narrative Theory (formerly: The Journal of Narrative Technique)'
   title: 'Journal of Narrative Theory (formerly: The Journal of Narrative Technique)'
@@ -15242,7 +15239,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003182␟AK01458596
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of the history of ideas : JHI is published quarterly
+  relation_text_mv: 'Journal of the history of ideas : JHI is published quarterly
     by the Univ. of Pennsylvania Press␟Journal of the history of ideas : JHI'
 - id: EZB186
   display: Journal of the History of Ideas (JHI) (1996-)
@@ -15270,7 +15267,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003182␟AK01458596
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Journal of the history of ideas : JHI is published quarterly
+  relation_text_mv: 'Journal of the history of ideas : JHI is published quarterly
     by the Univ. of Pennsylvania Press␟Journal of the history of ideas : JHI'
 - id: EZB64787
   display: Journal of the History of Philosophy
@@ -15484,7 +15481,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00022338
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Das junge Deutschland : Monatsschr. für Literatur u. Theater'
+  relation_text_mv: 'Das junge Deutschland : Monatsschr. für Literatur u. Theater'
 - id: EZB82677
   display: Jutarnji Bibliotekar = Morning Librarian, The
   title: Jutarnji Bibliotekar = Morning Librarian, The
@@ -15534,7 +15531,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009021
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Kain : Zeitschrift für Menschlichkeit'
+  relation_text_mv: 'Kain : Zeitschrift für Menschlichkeit'
 - id: EZB461515
   display: 'Kairos: Elektronno Spisanie na Studentski Filosofski Seminar'
   title: 'Kairos: Elektronno Spisanie na Studentski Filosofski Seminar'
@@ -15674,7 +15671,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003187
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Kant-Studien : philosophische Zeitschrift der Kant-Gesellschaft'
+  relation_text_mv: 'Kant-Studien : philosophische Zeitschrift der Kant-Gesellschaft'
 - id: EZB64791
   display: Kant-Studien
   title: Kant-Studien
@@ -15700,7 +15697,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003187
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Kant-Studien : philosophische Zeitschrift der Kant-Gesellschaft'
+  relation_text_mv: 'Kant-Studien : philosophische Zeitschrift der Kant-Gesellschaft'
 - id: EZB53386
   display: Keel ja Kirjandus = Language and Literature
   title: Keel ja Kirjandus = Language and Literature
@@ -15772,7 +15769,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01465957
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Kierkegaard studies. - Yearbook
+  relation_text_mv: Kierkegaard studies. - Yearbook
 - id: EZB115377
   display: Knight's Quarterly Magazine
   title: Knight's Quarterly Magazine
@@ -15870,7 +15867,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008992
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Der Komet
+  relation_text_mv: Der Komet
 - id: EZB308755
   display: Konińskie Studia Językowe (KSJ) = Konin Language Studies = Koniner Sprachstudien
   title: Konińskie Studia Językowe (KSJ) = Konin Language Studies = Koniner Sprachstudien
@@ -15987,7 +15984,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00020573
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Kothurn : Wochenschrift für Theater, Kunst und Literatur'
+  relation_text_mv: 'Kothurn : Wochenschrift für Theater, Kunst und Literatur'
 - id: EZB125580
   display: 'Kräfte : Zeitschrift für Dichtung, Musik, bildende Kunst'
   title: 'Kräfte : Zeitschrift für Dichtung, Musik, bildende Kunst'
@@ -16012,7 +16009,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00007959
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Kräfte : Zeitschr. für Dichtung, Musik, bildende Kunst'
+  relation_text_mv: 'Kräfte : Zeitschr. für Dichtung, Musik, bildende Kunst'
 - id: EZB51999
   display: Kritika & Kontext
   title: Kritika & Kontext
@@ -16108,7 +16105,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00177068
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Kronstädter Beiträge zur Germanistischen Forschung
+  relation_text_mv: Kronstädter Beiträge zur Germanistischen Forschung
 - id: EZB125570
   display: Kugel, Die
   title: Kugel, Die
@@ -16133,7 +16130,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009222
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Kugel : Zeitschrift für neue Kunst und Dichtung'
+  relation_text_mv: 'Die Kugel : Zeitschrift für neue Kunst und Dichtung'
 - id: EZB202084
   display: Kultura i Wartości = Culture and Values = Kultur und Werte
   title: Kultura i Wartości = Culture and Values = Kultur und Werte
@@ -16184,7 +16181,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00095704
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Kulturpoetik : journal for cultural poetics'
+  relation_text_mv: 'Kulturpoetik : journal for cultural poetics'
 - id: EZB99654
   display: 'KulturPoetik: Zeitschrift für kulturgeschichtliche Literaturwissenschaft
     = Journal for Cultural Poetics'
@@ -16212,7 +16209,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00095704
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Kulturpoetik : journal for cultural poetics'
+  relation_text_mv: 'Kulturpoetik : journal for cultural poetics'
 - id: EZB211457
   display: Kürschners Deutscher Literatur-Kalender
   title: Kürschners Deutscher Literatur-Kalender
@@ -16237,7 +16234,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00030463
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Kürschners deutscher Literatur-Kalender
+  relation_text_mv: Kürschners deutscher Literatur-Kalender
 - id: EZB39974
   display: Kykéion
   title: Kykéion
@@ -16990,7 +16987,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01839489
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Lettre internationale : ediţia română'
+  relation_text_mv: 'Lettre internationale : ediţia română'
 - id: EZB109622
   display: Lexicographica
   title: Lexicographica
@@ -17880,7 +17877,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005110
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Linguistica Pragensia
+  relation_text_mv: Linguistica Pragensia
 - id: EZB339630
   display: Linguistica Pragensia (2014-)
   title: Linguistica Pragensia (2014-)
@@ -17908,7 +17905,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005110
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Linguistica Pragensia
+  relation_text_mv: Linguistica Pragensia
 - id: EZB52008
   display: Linguistica Uralica
   title: Linguistica Uralica
@@ -18467,8 +18464,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005934
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The literary review : an internat. journal of contemporary
-    writing'
+  relation_text_mv: 'The literary review : an internat. journal of contemporary writing'
 - id: EZB164253
   display: Literatūra = Literature
   title: Literatūra = Literature
@@ -18541,7 +18537,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00015491
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Litteraria Pragensia : studies in literature and culture'
+  relation_text_mv: 'Litteraria Pragensia : studies in literature and culture'
 - id: EZB172114
   display: Lodz Papers in Pragmatics
   title: Lodz Papers in Pragmatics
@@ -18658,7 +18654,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005451
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Logos : Zeitschrift für systematische Philosophie'
+  relation_text_mv: 'Logos : Zeitschrift für systematische Philosophie'
 - id: EZB125023
   display: 'Logos Architekton : Journal of Logic and Philosophy of of Science'
   title: 'Logos Architekton : Journal of Logic and Philosophy of of Science'
@@ -18798,7 +18794,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005663
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der lose Vogel : eine Monatsschrift'
+  relation_text_mv: 'Der lose Vogel : eine Monatsschrift'
 - id: EZB197696
   display: Lublin Studies in Modern Languages and Literature
   title: Lublin Studies in Modern Languages and Literature
@@ -18897,7 +18893,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01606677
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Magyar lettre internationale : európai kulturális folyóirat'
+  relation_text_mv: 'Magyar lettre internationale : európai kulturális folyóirat'
 - id: EZB110507
   display: Manoa
   title: Manoa
@@ -18946,7 +18942,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008991
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Marstall : Zeit- und Streit-Schrift'
+  relation_text_mv: 'Der Marstall : Zeit- und Streit-Schrift'
 - id: EZB149412
   display: Masonic Journal (Marietta, GA 1852)
   title: Masonic Journal (Marietta, GA 1852)
@@ -19183,7 +19179,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003231
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Merkur : deutsche Zeitschrift für europäisches Denken'
+  relation_text_mv: 'Merkur : deutsche Zeitschrift für europäisches Denken'
 - id: EZB96912
   display: Metaphysica
   title: Metaphysica
@@ -19417,7 +19413,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008993
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Mistral : Zeitschrift für Literatur und Kunst'
+  relation_text_mv: 'Der Mistral : Zeitschrift für Literatur und Kunst'
 - id: EZB134709
   display: Mitteilungen des Deutschen Germanistenverbandes
   title: Mitteilungen des Deutschen Germanistenverbandes
@@ -19443,7 +19439,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003240
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Mitteilungen des Deutschen Germanisten-Verbandes
+  relation_text_mv: Mitteilungen des Deutschen Germanisten-Verbandes
 - id: EZB7721
   display: MLN - Modern Language Notes
   title: MLN - Modern Language Notes
@@ -19469,7 +19465,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004967
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: MLN
+  relation_text_mv: MLN
 - id: EZB52186
   display: 'MM : Revistë Mikste Debatike për Çështje Shoqërore, Politikë, Kulturë
     Dhe Letërsi'
@@ -19519,7 +19515,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004963
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Modern fiction studies : MFS'
+  relation_text_mv: 'Modern fiction studies : MFS'
 - id: EZB31379
   display: Modern Language Journal, The
   title: Modern Language Journal, The
@@ -19545,8 +19541,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00366106
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The modern language journal : MLJ ; devoted to research and
-    discussion about the learning and teaching of foreign and second languages'
+  relation_text_mv: 'The modern language journal : MLJ ; devoted to research and discussion
+    about the learning and teaching of foreign and second languages'
 - id: EZB7722
   display: Modern Language Notes
   title: Modern Language Notes
@@ -19573,7 +19569,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004965
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Modern language notes : MLN'
+  relation_text_mv: 'Modern language notes : MLN'
 - id: EZB489470
   display: Modern Language Review (aktuelle Jahrgänge)
   title: Modern Language Review (aktuelle Jahrgänge)
@@ -19599,7 +19595,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004279
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The modern language review : MLR'
+  relation_text_mv: 'The modern language review : MLR'
 - id: EZB64811
   display: Modern Language Review
   title: Modern Language Review
@@ -19626,7 +19622,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004279
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The modern language review : MLR'
+  relation_text_mv: 'The modern language review : MLR'
 - id: EZB88235
   display: Modern Language Review, The
   title: Modern Language Review, The
@@ -19653,7 +19649,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004279
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The modern language review : MLR'
+  relation_text_mv: 'The modern language review : MLR'
 - id: EZB53654
   display: Modern Language Studies (MLS)
   title: Modern Language Studies (MLS)
@@ -19678,7 +19674,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00018251
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Modern language studies
+  relation_text_mv: Modern language studies
 - id: EZB31380
   display: Modern Philology
   title: Modern Philology
@@ -19728,8 +19724,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004983
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Monatshefte für deutsche Sprache und Pädagogik : Organ d.
-    Nationalen Deutschamerikanischen Lehrerbundes'
+  relation_text_mv: 'Monatshefte für deutsche Sprache und Pädagogik : Organ d. Nationalen
+    Deutschamerikanischen Lehrerbundes'
 - id: EZB124317
   display: Monatshefte für Deutschen Unterricht
   title: Monatshefte für Deutschen Unterricht
@@ -19755,7 +19751,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004986
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Monatshefte für deutschen Unterricht
+  relation_text_mv: Monatshefte für deutschen Unterricht
 - id: EZB88548
   display: Monatshefte für Deutschsprachige Literatur und Kultur (aktuelle Jahrgänge)
   title: Monatshefte für Deutschsprachige Literatur und Kultur (aktuelle Jahrgänge)
@@ -19783,7 +19779,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00085974␟AK00215852
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Monatshefte für deutschsprachige Literatur und Kultur␟Monatshefte
+  relation_text_mv: 'Monatshefte für deutschsprachige Literatur und Kultur␟Monatshefte
     für deutschen Unterricht, deutsche Sprache und Literatur : official organ of the
     German Section of the Modern Language Association of the Central West and South'
 - id: EZB124315
@@ -19811,7 +19807,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00085974␟AK00215852
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Monatshefte für deutschsprachige Literatur und Kultur␟Monatshefte
+  relation_text_mv: 'Monatshefte für deutschsprachige Literatur und Kultur␟Monatshefte
     für deutschen Unterricht, deutsche Sprache und Literatur : official organ of the
     German Section of the Modern Language Association of the Central West and South'
 - id: EZB33168
@@ -20027,7 +20023,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003258
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Mosaic : a journal for the interdisciplinary study of literature'
+  relation_text_mv: 'Mosaic : a journal for the interdisciplinary study of literature'
 - id: EZB52018
   display: 'Most : Knjizevna Revija'
   title: 'Most : Knjizevna Revija'
@@ -20120,7 +20116,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008181
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Münchner Blätter für Dichtung und Graphik : eine Monatsschrift'
+  relation_text_mv: 'Münchner Blätter für Dichtung und Graphik : eine Monatsschrift'
 - id: EZB163691
   display: Murray's Review
   title: Murray's Review
@@ -20338,9 +20334,9 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00575844
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Naharaim : Zeitschrift für deutsch-jüdische Literatur und
-    Kulturgeschichte ; a publication of the Franz Rosenzweig Minerva Research Centre,
-    The Hebrew University Jerusalem'
+  relation_text_mv: 'Naharaim : Zeitschrift für deutsch-jüdische Literatur und Kulturgeschichte
+    ; a publication of the Franz Rosenzweig Minerva Research Centre, The Hebrew University
+    Jerusalem'
 - id: EZB135870
   display: National Philanthropist & Investigator & Genius of Temperance
   title: National Philanthropist & Investigator & Genius of Temperance
@@ -20512,7 +20508,7 @@
   relation_id_mv: AK00002846␟AK00018272␟AK01260829␟AK00047141
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe␟Erscheint
     auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Acta Universitatis Wratislaviensis␟Acta Universitatis Wratislaviensis␟Dramat
+  relation_text_mv: Acta Universitatis Wratislaviensis␟Acta Universitatis Wratislaviensis␟Dramat
     - teatr␟Neerlandica Wratislaviensia
 - id: EZB309159
   display: NEMLA Newsletter
@@ -20588,7 +20584,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003770
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Neohelicon : acta comparationis litterarum universarum'
+  relation_text_mv: 'Neohelicon : acta comparationis litterarum universarum'
 - id: EZB94237
   display: Neophilologica
   title: Neophilologica
@@ -20641,7 +20637,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005013
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Neophilologus : an international journal of modern and mediaeval
+  relation_text_mv: 'Neophilologus : an international journal of modern and mediaeval
     language and literature'
 - id: EZB64817
   display: 'Neophilologus: An International Journal of Modern and Mediaeval Language
@@ -20670,7 +20666,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005013
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Neophilologus : an international journal of modern and mediaeval
+  relation_text_mv: 'Neophilologus : an international journal of modern and mediaeval
     language and literature'
 - id: EZB129144
   display: Neue Blätter
@@ -20696,7 +20692,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008598
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Neue Blätter
+  relation_text_mv: Neue Blätter
 - id: EZB129143
   display: Neue Blätter für Kunst und Dichtung
   title: Neue Blätter für Kunst und Dichtung
@@ -20721,7 +20717,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005695
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Neue Blätter für Kunst und Dichtung
+  relation_text_mv: Neue Blätter für Kunst und Dichtung
 - id: EZB129396
   display: Neue Blätter für Kunst und Literatur
   title: Neue Blätter für Kunst und Literatur
@@ -20746,7 +20742,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009060
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Neue Blätter für Kunst und Literatur
+  relation_text_mv: Neue Blätter für Kunst und Literatur
 - id: EZB129142
   display: Neue Bücherschau, Die
   title: Neue Bücherschau, Die
@@ -20771,8 +20767,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005696
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die neue Bücherschau : buchkrit. Zeitschr. für Literatur,
-    Kunst, Kulturpolitik'
+  relation_text_mv: 'Die neue Bücherschau : buchkrit. Zeitschr. für Literatur, Kunst,
+    Kulturpolitik'
 - id: EZB125553
   display: Neue Daimon, Der
   title: Neue Daimon, Der
@@ -20797,7 +20793,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005682
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Der Neue Daimon
+  relation_text_mv: Der Neue Daimon
 - id: EZB129139
   display: 'Neue Jugend : eine Zeitschrift für moderne Kunst und jungen Geist (1914)'
   title: 'Neue Jugend : eine Zeitschrift für moderne Kunst und jungen Geist (1914)'
@@ -20822,7 +20818,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00006262
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Neue Jugend : Monatsschrift'
+  relation_text_mv: 'Neue Jugend : Monatsschrift'
 - id: EZB160277
   display: 'Neue Jugend : eine Zeitschrift für moderne Kunst und jungen Geist (1916/17)'
   title: 'Neue Jugend : eine Zeitschrift für moderne Kunst und jungen Geist (1916/17)'
@@ -20847,7 +20843,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00006262
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Neue Jugend : Monatsschrift'
+  relation_text_mv: 'Neue Jugend : Monatsschrift'
 - id: EZB52022
   display: 'Neue Literatur : Zeitschrift für Querverbindungen'
   title: 'Neue Literatur : Zeitschrift für Querverbindungen'
@@ -20872,7 +20868,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005440
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Neue Literatur : Zeitschrift für Querverbindungen'
+  relation_text_mv: 'Neue Literatur : Zeitschrift für Querverbindungen'
 - id: EZB129137
   display: Neue Literatur, Die
   title: Neue Literatur, Die
@@ -20897,7 +20893,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008997
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die neue Literatur : Nachrichten und Anzeigen'
+  relation_text_mv: 'Die neue Literatur : Nachrichten und Anzeigen'
 - id: EZB125505
   display: Neue Pathos, Das
   title: Neue Pathos, Das
@@ -20922,7 +20918,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008686
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Das neue Pathos
+  relation_text_mv: Das neue Pathos
 - id: EZB125566
   display: Neue Rheinland, Das
   title: Neue Rheinland, Das
@@ -20947,7 +20943,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008981
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Das Neue Rheinland : rhein. Halbmonatsschr. für Politik, Kultur,
+  relation_text_mv: 'Das Neue Rheinland : rhein. Halbmonatsschr. für Politik, Kultur,
     Kunst u. Dichtung'
 - id: EZB189135
   display: Neue Rundschau
@@ -20973,7 +20969,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003283
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Neue Rundschau
+  relation_text_mv: Neue Rundschau
 - id: EZB526568
   display: Névtani Értesítő = Onomastic Review
   title: Névtani Értesítő = Onomastic Review
@@ -21043,8 +21039,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003404
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'New German critique : ngc ; an interdisciplinary journal of
-    German studies'
+  relation_text_mv: 'New German critique : ngc ; an interdisciplinary journal of German
+    studies'
 - id: EZB64821
   display: New Literary History (-2000)
   title: New Literary History (-2000)
@@ -21070,7 +21066,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003374
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'New literary history : NLH ; a journal of theory and interpretation'
+  relation_text_mv: 'New literary history : NLH ; a journal of theory and interpretation'
 - id: EZB31383
   display: 'New Literary History : NLH'
   title: 'New Literary History : NLH'
@@ -21096,7 +21092,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003374
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'New literary history : NLH ; a journal of theory and interpretation'
+  relation_text_mv: 'New literary history : NLH ; a journal of theory and interpretation'
 - id: EZB94368
   display: 'New Quarterly Review, The : or Home, Foreign and Colonial Journal'
   title: 'New Quarterly Review, The : or Home, Foreign and Colonial Journal'
@@ -21189,7 +21185,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004277
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Nietzsche-Studien : internationales Jahrbuch für die Nietzsche-Forschung'
+  relation_text_mv: 'Nietzsche-Studien : internationales Jahrbuch für die Nietzsche-Forschung'
 - id: EZB489331
   display: Nietzsche-Studien (2022 -)
   title: Nietzsche-Studien (2022 -)
@@ -21215,7 +21211,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004277
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Nietzsche-Studien : internationales Jahrbuch für die Nietzsche-Forschung'
+  relation_text_mv: 'Nietzsche-Studien : internationales Jahrbuch für die Nietzsche-Forschung'
 - id: EZB140431
   display: Nietzscheforschung
   title: Nietzscheforschung
@@ -21241,7 +21237,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00296402
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Nietzscheforschung : Jahrbuch der Nietzsche-Gesellschaft'
+  relation_text_mv: 'Nietzscheforschung : Jahrbuch der Nietzsche-Gesellschaft'
 - id: EZB129745
   display: Nightingale, The
   title: Nightingale, The
@@ -21546,7 +21542,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003709
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Orbis litterarum : international review of literary studies'
+  relation_text_mv: 'Orbis litterarum : international review of literary studies'
 - id: EZB462561
   display: 'Orbis Litterarum: International Review of Literary Studies'
   title: 'Orbis Litterarum: International Review of Literary Studies'
@@ -21570,7 +21566,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003709
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Orbis litterarum : international review of literary studies'
+  relation_text_mv: 'Orbis litterarum : international review of literary studies'
 - id: EZB129748
   display: Ordeal, The
   title: Ordeal, The
@@ -21688,7 +21684,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008670
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Der Orkan
+  relation_text_mv: Der Orkan
 - id: EZB129155
   display: 'Orkan, Der : ein numeriertes Extrablatt zur Pflege neudeutscher Kunst
     und Kultur'
@@ -21715,7 +21711,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003943
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Orkan : ein numeriertes Extrabl. zur Pflege neudeutscher
+  relation_text_mv: 'Der Orkan : ein numeriertes Extrabl. zur Pflege neudeutscher
     Kunst u. Kultur'
 - id: EZB220241
   display: "Osvit : Časopis za Knji\x9Eevnost, Kulturu i Dru\x9Atvene Teme"
@@ -21766,7 +21762,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004712
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Oxford German studies
+  relation_text_mv: Oxford German studies
 - id: EZB53657
   display: Pacific Coast Philology
   title: Pacific Coast Philology
@@ -21794,7 +21790,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01491444
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Pacific coast philology : journal of the Pacific Ancient and
+  relation_text_mv: 'Pacific coast philology : journal of the Pacific Ancient and
     Modern Language Association'
 - id: EZB163808
   display: Page Monthly, The
@@ -21935,7 +21931,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00007467
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Pan : Wochenschrift'
+  relation_text_mv: 'Pan : Wochenschrift'
 - id: EZB163809
   display: Panorama of Life & Literature
   title: Panorama of Life & Literature
@@ -22125,7 +22121,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004008
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Phaethon : Monatschrift für Lyrik'
+  relation_text_mv: 'Phaethon : Monatschrift für Lyrik'
 - id: EZB135992
   display: Philanthropist (1831-1832)
   title: Philanthropist (1831-1832)
@@ -22248,7 +22244,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01227993
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Philological quarterly : PQ'
+  relation_text_mv: 'Philological quarterly : PQ'
 - id: EZB532534
   display: Philological Researches = ფილოლოგიური კვლევები
   title: Philological Researches = ფილოლოგიური კვლევები
@@ -22368,7 +22364,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003716
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Philosophia naturalis : Archiv für Naturphilosophie und  die
+  relation_text_mv: 'Philosophia naturalis : Archiv für Naturphilosophie und  die
     philosophischen Grenzgebiete der exakten Wissenschaften und Wissenschaftsgeschichte'
 - id: EZB492214
   display: 'Philosophica: International Journal of Social and Human Sciences'
@@ -22610,8 +22606,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003224
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Philosophischer Literaturanzeiger : ein Referateorgan für
-    die Neuerscheinungen der Philosophie und ihrer gesamten Grenzgebiete'
+  relation_text_mv: 'Philosophischer Literaturanzeiger : ein Referateorgan für die
+    Neuerscheinungen der Philosophie und ihrer gesamten Grenzgebiete'
 - id: EZB344149
   display: Philosophy & Cosmology <and>
   title: Philosophy & Cosmology <and>
@@ -22825,7 +22821,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00007914
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Phöbus : Monatsschrift für Aesthetik und Kritik des Theaters'
+  relation_text_mv: 'Phöbus : Monatsschrift für Aesthetik und Kritik des Theaters'
 - id: EZB149924
   display: Phonal Depot, The
   title: Phonal Depot, The
@@ -22991,7 +22987,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008996
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Pleite : illustrierte Halbmonatsschrift'
+  relation_text_mv: 'Die Pleite : illustrierte Halbmonatsschrift'
 - id: EZB64848
   display: Ploughshares
   title: Ploughshares
@@ -23067,8 +23063,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00022472
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Publications of the Modern Language Association of America
-    : PMLA'
+  relation_text_mv: 'Publications of the Modern Language Association of America :
+    PMLA'
 - id: EZB31384
   display: 'PMLA : Publications of the Modern Language Association'
   title: 'PMLA : Publications of the Modern Language Association'
@@ -23094,8 +23090,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00022472
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Publications of the Modern Language Association of America
-    : PMLA'
+  relation_text_mv: 'Publications of the Modern Language Association of America :
+    PMLA'
 - id: EZB525830
   display: Półrocznik Językoznawczy Tertium = Tertium Linguistic Journal
   title: Półrocznik Językoznawczy Tertium = Tertium Linguistic Journal
@@ -23146,8 +23142,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003718
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: '[Poetica <München>] Poetica : Zeitschrift für Sprach- und
-    Literaturwissenschaft'
+  relation_text_mv: '[Poetica <München>] Poetica : Zeitschrift für Sprach- und Literaturwissenschaft'
 - id: EZB230990
   display: Poetica
   title: Poetica
@@ -23173,8 +23168,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003718
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: '[Poetica <München>] Poetica : Zeitschrift für Sprach- und
-    Literaturwissenschaft'
+  relation_text_mv: '[Poetica <München>] Poetica : Zeitschrift für Sprach- und Literaturwissenschaft'
 - id: EZB55791
   display: Poetica
   title: Poetica
@@ -23199,9 +23193,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003718␟AK01791042
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: '[Poetica <München>] Poetica : Zeitschrift für Sprach- und
-    Literaturwissenschaft␟[Poetica <München>] Poetica : Zeitschrift für Sprach- und
-    Literaturwissenschaft'
+  relation_text_mv: '[Poetica <München>] Poetica : Zeitschrift für Sprach- und Literaturwissenschaft␟[Poetica
+    <München>] Poetica : Zeitschrift für Sprach- und Literaturwissenschaft'
 - id: EZB115287
   display: Poetical Courant, The
   title: Poetical Courant, The
@@ -23249,7 +23242,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003559
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Poetics : journal of empirical research on culture, the media
+  relation_text_mv: 'Poetics : journal of empirical research on culture, the media
     and the arts'
 - id: EZB31385
   display: Poetics Today
@@ -23276,7 +23269,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009180
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Poetics today : international journal for theory and analysis
+  relation_text_mv: 'Poetics today : international journal for theory and analysis
     of literature and communication'
 - id: EZB92674
   display: Poets & Writers Magazine
@@ -24213,7 +24206,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00365150
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Problemos : filosofijos leidinys'
+  relation_text_mv: 'Problemos : filosofijos leidinys'
 - id: EZB246652
   display: Problemy Istoričeskoj Poėtiki = The Problems of Historical Poetics
   title: Problemy Istoričeskoj Poėtiki = The Problems of Historical Poetics
@@ -24538,7 +24531,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003741
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Publications of the English Goethe Society : PEGS'
+  relation_text_mv: 'Publications of the English Goethe Society : PEGS'
 - id: EZB136027
   display: Publishers Circular
   title: Publishers Circular
@@ -25343,7 +25336,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00020588
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Renaissance : Halbmonatsschr'
+  relation_text_mv: 'Renaissance : Halbmonatsschr'
 - id: EZB64864
   display: 'Renascence : Essays on Values in Literatur'
   title: 'Renascence : Essays on Values in Literatur'
@@ -25369,7 +25362,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004811
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Renascence : essays on values in literature'
+  relation_text_mv: 'Renascence : essays on values in literature'
 - id: EZB6498
   display: 'Res Publica : a journal of moral, legal and political philosophy'
   title: 'Res Publica : a journal of moral, legal and political philosophy'
@@ -25487,7 +25480,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00179244
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Research in phenomenology
+  relation_text_mv: Research in phenomenology
 - id: EZB7224
   display: Research Strategies
   title: Research Strategies
@@ -25561,7 +25554,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00036683
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Restaurator : internat. journal for the preservation of library
+  relation_text_mv: 'Restaurator : internat. journal for the preservation of library
     and archival material'
 - id: EZB130324
   display: Rettung, Die
@@ -25587,7 +25580,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005660
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Rettung : Blätter zur Erkenntnis der Zeit'
+  relation_text_mv: 'Die Rettung : Blätter zur Erkenntnis der Zeit'
 - id: EZB202091
   display: Review of Contemporary Philosophy
   title: Review of Contemporary Philosophy
@@ -26012,7 +26005,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005701
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Revolution : Wochenschr. ; an alle und einen'
+  relation_text_mv: 'Revolution : Wochenschr. ; an alle und einen'
 - id: EZB64876
   display: Revue de Littérature Comparée
   title: Revue de Littérature Comparée
@@ -26038,7 +26031,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004889
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Revue de littérature comparée : RLC'
+  relation_text_mv: 'Revue de littérature comparée : RLC'
 - id: EZB60973
   display: Revue des Littératures de l'Union Européenne (RiLUnE) (2005-2008)
   title: Revue des Littératures de l'Union Européenne (RiLUnE) (2005-2008)
@@ -26181,7 +26174,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003422
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Rhetorik : ein internationales Jahrbuch : [Bibliographie enthalten]'
+  relation_text_mv: 'Rhetorik : ein internationales Jahrbuch : [Bibliographie enthalten]'
 - id: EZB82688
   display: 'Rhizai : Journal for Ancient Philosophy and Science'
   title: 'Rhizai : Journal for Ancient Philosophy and Science'
@@ -26563,7 +26556,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00022577
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Romanica Wratislaviensia
+  relation_text_mv: Romanica Wratislaviensia
 - id: EZB204982
   display: Romano-Arabica
   title: Romano-Arabica
@@ -26610,7 +26603,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008989
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Romantik
+  relation_text_mv: Romantik
 - id: EZB94326
   display: 'Rose, the Shamrock, and the Thistle, The : a Magazine for the Fair Daughters
     of Great Britain and Ireland'
@@ -26683,7 +26676,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005699
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Ruf : ein Flugblatt an junge Menschen'
+  relation_text_mv: 'Der Ruf : ein Flugblatt an junge Menschen'
 - id: EZB215973
   display: Săpostavitelno Ezikoznanie = Sopostavitelnoe Jazykoznanie = Contrastive
     Linguistics
@@ -26804,7 +26797,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005687
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Saturn : eine Monatsschrift'
+  relation_text_mv: 'Saturn : eine Monatsschrift'
 - id: EZB64888
   display: Scandinavian Studies
   title: Scandinavian Studies
@@ -26831,8 +26824,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01228158
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Scandinavian studies : publications of the Society for the
-    Advancement of Scandinavian Study'
+  relation_text_mv: 'Scandinavian studies : publications of the Society for the Advancement
+    of Scandinavian Study'
 - id: EZB179757
   display: Schoenhof & Moeller's Monthly Bulletin of Foreign Literature
   title: Schoenhof & Moeller's Monthly Bulletin of Foreign Literature
@@ -26900,7 +26893,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005651
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Die Schöne Rarität
+  relation_text_mv: Die Schöne Rarität
 - id: EZB308846
   display: Schulz-Forum
   title: Schulz-Forum
@@ -27022,7 +27015,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00036701
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Scientia Poetica : Jahrbuch für Geschichte der Literatur und
+  relation_text_mv: 'Scientia Poetica : Jahrbuch für Geschichte der Literatur und
     der Wissenschaften : yearbook for the history of literature, humanities and sciences'
 - id: EZB10247
   display: Scientometrics
@@ -27212,7 +27205,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005008
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Seminar : a journal of Germanic studies'
+  relation_text_mv: 'Seminar : a journal of Germanic studies'
 - id: EZB460925
   display: Seminari Nde͏̈rkombe͏̈tar pe͏̈r Gjuhe͏̈n, Lete͏̈rsine͏̈ dhe Kulture͏̈n
     Shqiptare = International Seminar for Albanian Language, Literature and Culture
@@ -27335,7 +27328,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01229107
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The Sewanee review : a quarterly journal'
+  relation_text_mv: 'The Sewanee review : a quarterly journal'
 - id: EZB127788
   display: Sichel, Die
   title: Sichel, Die
@@ -27360,7 +27353,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005702
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Die Sichel
+  relation_text_mv: Die Sichel
 - id: EZB125363
   display: Sign Language Studies
   title: Sign Language Studies
@@ -27454,7 +27447,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005654
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Sirius : Monatsschr. für Literatur u. Kunst'
+  relation_text_mv: 'Sirius : Monatsschr. für Literatur u. Kunst'
 - id: EZB134955
   display: Sjani = Thoughts
   title: Sjani = Thoughts
@@ -27695,7 +27688,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00019868
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: The South central bulletin
+  relation_text_mv: The South central bulletin
 - id: EZB136126
   display: Southern Historical Materials at the American Antiquarian Society
   title: Southern Historical Materials at the American Antiquarian Society
@@ -27881,7 +27874,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009002
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Strom : e. Buchfolge'
+  relation_text_mv: 'Der Strom : e. Buchfolge'
 - id: EZB64075
   display: Studi di Estetica (2000-2013)
   title: Studi di Estetica (2000-2013)
@@ -28046,7 +28039,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00006625
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Prace naukowe Uniwersytetu Śląskiego w Katowicach
+  relation_text_mv: Prace naukowe Uniwersytetu Śląskiego w Katowicach
 - id: EZB344153
   display: Studia Capuccinorum Boziniensia
   title: Studia Capuccinorum Boziniensia
@@ -28167,7 +28160,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004272
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Studia Germanica Posnaniensia
+  relation_text_mv: Studia Germanica Posnaniensia
 - id: EZB201782
   display: Studia Gilsoniana
   title: Studia Gilsoniana
@@ -28308,7 +28301,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00573141
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Studia litteraria Universitatis Iagellonicae Cracoviensis
+  relation_text_mv: Studia litteraria Universitatis Iagellonicae Cracoviensis
 - id: EZB2244
   display: Studia Logica
   title: Studia Logica
@@ -28359,8 +28352,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004701
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Studia neophilologica : a journal of Germanic and Romance
-    languages and literature'
+  relation_text_mv: 'Studia neophilologica : a journal of Germanic and Romance languages
+    and literature'
 - id: EZB110876
   display: Studia Phaenomenologica
   title: Studia Phaenomenologica
@@ -28856,7 +28849,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004713
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Studies in romanticism : SiR'
+  relation_text_mv: 'Studies in romanticism : SiR'
 - id: EZB193548
   display: Studies in Second Language Learning and Teaching (SSLLT)
   title: Studies in Second Language Learning and Teaching (SSLLT)
@@ -29146,7 +29139,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005930
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Sturm-Bühne : Jahrbuch des Theaters der Expressionisten'
+  relation_text_mv: 'Sturm-Bühne : Jahrbuch des Theaters der Expressionisten'
 - id: EZB129329
   display: Sturmreiter, Der
   title: Sturmreiter, Der
@@ -29171,7 +29164,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008196
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Sturmreiter : Monatsschr. für Literatur u. Kunst'
+  relation_text_mv: 'Der Sturmreiter : Monatsschr. für Literatur u. Kunst'
 - id: EZB136150
   display: 'Such is Change in California: James Mason Hutchings & the Print Metropolis,
     1854-1862'
@@ -29222,7 +29215,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004715
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Summa : eine Vierteljahresschrift'
+  relation_text_mv: 'Summa : eine Vierteljahresschrift'
 - id: EZB150214
   display: Suplement Tw Ae Wecli Fonetic Advocet
   title: Suplement Tw Ae Wecli Fonetic Advocet
@@ -29295,7 +29288,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004717
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Symposium : a quarterly journal in modern literatures'
+  relation_text_mv: 'Symposium : a quarterly journal in modern literatures'
 - id: EZB64918
   display: 'Symposium: A Quarterly Journal in Modern Literatures'
   title: 'Symposium: A Quarterly Journal in Modern Literatures'
@@ -29321,7 +29314,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004717
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Symposium : a quarterly journal in modern literatures'
+  relation_text_mv: 'Symposium : a quarterly journal in modern literatures'
 - id: EZB6263
   display: 'Synthese: An International Journal for Epistemology, Methodology and Philosophy
     of Science'
@@ -29611,7 +29604,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00055727
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Temeswarer Beiträge zur Germanistik
+  relation_text_mv: Temeswarer Beiträge zur Germanistik
 - id: EZB125026
   display: Teologia Polityczna = Political Theology
   title: Teologia Polityczna = Political Theology
@@ -29915,7 +29908,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003822
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: '[The Times <London> / Literary supplement] The times literary
+  relation_text_mv: '[The Times <London> / Literary supplement] The times literary
     supplement : TLS'
 - id: EZB6373
   display: 'Topoi : An International Review of Philosophy'
@@ -30037,8 +30030,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00022472
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Publications of the Modern Language Association of America
-    : PMLA'
+  relation_text_mv: 'Publications of the Modern Language Association of America :
+    PMLA'
 - id: EZB92730
   display: Transactions of the Charles S. Peirce Society
   title: Transactions of the Charles S. Peirce Society
@@ -30086,8 +30079,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00022472
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Publications of the Modern Language Association of America
-    : PMLA'
+  relation_text_mv: 'Publications of the Modern Language Association of America :
+    PMLA'
 - id: EZB308875
   display: 'Transfer: Reception Studies'
   title: 'Transfer: Reception Studies'
@@ -30605,8 +30598,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008999
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Ventilator : Wochenschrift ; Unterhaltungsbeilage zur
-    Tagespresse'
+  relation_text_mv: 'Der Ventilator : Wochenschrift ; Unterhaltungsbeilage zur Tagespresse'
 - id: EZB467351
   display: Vermilion International Journal of Literature and Art
   title: Vermilion International Journal of Literature and Art
@@ -30800,7 +30792,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005659
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Der Weg
+  relation_text_mv: Der Weg
 - id: EZB130347
   display: Weissen Blätter, Die
   title: Weissen Blätter, Die
@@ -30825,7 +30817,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005298
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die weissen Blätter : soziologische Probleme d. Gegenwart'
+  relation_text_mv: 'Die weissen Blätter : soziologische Probleme d. Gegenwart'
 - id: EZB127776
   display: Wiecker Bote
   title: Wiecker Bote
@@ -30850,7 +30842,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009004
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Wiecker Bote : literarische Hefte zur Zeit'
+  relation_text_mv: 'Wiecker Bote : literarische Hefte zur Zeit'
 - id: EZB170116
   display: 'Wielogłos : Pismo Wydziału Polonistyki UJ'
   title: 'Wielogłos : Pismo Wydziału Polonistyki UJ'
@@ -30925,7 +30917,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00022605
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Wisconsin studies in contemporary literature
+  relation_text_mv: Wisconsin studies in contemporary literature
 - id: EZB140259
   display: Wittgenstein-Studien
   title: Wittgenstein-Studien
@@ -31093,7 +31085,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003972
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'World literature today : a literary quarterly of the University
+  relation_text_mv: 'World literature today : a literary quarterly of the University
     of Oklahoma'
 - id: EZB64936
   display: 'World Literature Today (formerly: Books Abroad)'
@@ -31120,7 +31112,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003972
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'World literature today : a literary quarterly of the University
+  relation_text_mv: 'World literature today : a literary quarterly of the University
     of Oklahoma'
 - id: EZB312157
   display: 'Wortfolge: Jahrbuch des Instituts für Germanische Philologie der Schlesischen
@@ -31151,7 +31143,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01608779
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Wortfolge : Jahrbuch des Instituts für Germanische Philologie
+  relation_text_mv: 'Wortfolge : Jahrbuch des Instituts für Germanische Philologie
     der Schlesischen Universität'
 - id: EZB9099
   display: Written Communication
@@ -31224,7 +31216,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00036897
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'The year''s work in modern language studies : ywmls : [Bibliographie]'
+  relation_text_mv: 'The year''s work in modern language studies : ywmls : [Bibliographie]'
 - id: EZB252548
   display: Yearbook for Eastern and Western Philosophy
   title: Yearbook for Eastern and Western Philosophy
@@ -31273,8 +31265,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK01539482
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Yearbook for European Jewish literature studies = Jahrbuch
-    für europäisch-jüdische Literaturstudien
+  relation_text_mv: Yearbook for European Jewish literature studies = Jahrbuch für
+    europäisch-jüdische Literaturstudien
 - id: EZB151155
   display: Yearbook of Phraseology
   title: Yearbook of Phraseology
@@ -31466,7 +31458,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00017417␟AK00019482
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zagreber germanistische Beiträge : ZGB ; Jahrbuch für Literatur-
+  relation_text_mv: 'Zagreber germanistische Beiträge : ZGB ; Jahrbuch für Literatur-
     und Sprachwissenschaft␟[Zagreber germanistische Beiträge / Beiheft] Zagreber germanistische
     Beiträge : ZGB B : Jahrbuch für Literatur- und Sprachwissenschaft'
 - id: EZB158935
@@ -31495,7 +31487,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00019482
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: '[Zagreber germanistische Beiträge / Beiheft] Zagreber germanistische
+  relation_text_mv: '[Zagreber germanistische Beiträge / Beiheft] Zagreber germanistische
     Beiträge : ZGB B : Jahrbuch für Literatur- und Sprachwissenschaft'
 - id: EZB184343
   display: Zbornik Radova / Medunarodna Konferencija Evropske Smjernice za Saradnju
@@ -31599,7 +31591,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00010854
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Die Zeit im Buch : Halbmonatsschrift für Buchbesprechung'
+  relation_text_mv: 'Die Zeit im Buch : Halbmonatsschrift für Buchbesprechung'
 - id: EZB127778
   display: Zeit-Echo
   title: Zeit-Echo
@@ -31624,7 +31616,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005666
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Zeit-Echo
+  relation_text_mv: Zeit-Echo
 - id: EZB127775
   display: Zeitblatt, Das
   title: Zeitblatt, Das
@@ -31649,7 +31641,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00009221
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Das Zeitblatt
+  relation_text_mv: Das Zeitblatt
 - id: EZB235721
   display: Zeitschrift des Verbandes Polnischer Germanisten = Czasopismo Stowarzyszenia
     Germanistów Polskich
@@ -31769,7 +31761,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005630
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Zeitschrift für Ästhetik und allgemeine Kunstwissenschaft
+  relation_text_mv: Zeitschrift für Ästhetik und allgemeine Kunstwissenschaft
 - id: EZB15026
   display: Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB) (2003-)
   title: Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB) (2003-)
@@ -31795,7 +31787,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004673
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für Bibliothekswesen und Bibliographie : vereinigt
+  relation_text_mv: 'Zeitschrift für Bibliothekswesen und Bibliographie : vereinigt
     mit Zentralblatt für Bibliothekswesen; ZfBB ; Organ des wissenschaftlichen Bibliothekswesens'
 - id: EZB41086
   display: Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB) (ältere Jahrgänge)
@@ -31822,7 +31814,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004673
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für Bibliothekswesen und Bibliographie : vereinigt
+  relation_text_mv: 'Zeitschrift für Bibliothekswesen und Bibliographie : vereinigt
     mit Zentralblatt für Bibliothekswesen; ZfBB ; Organ des wissenschaftlichen Bibliothekswesens'
 - id: EZB134533
   display: Zeitschrift für deutsche Kulturphilosophie
@@ -31848,7 +31840,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004759
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Zeitschrift für deutsche Kulturphilosophie
+  relation_text_mv: Zeitschrift für deutsche Kulturphilosophie
 - id: EZB48539
   display: Zeitschrift für Deutsches Altertum und Deutsche Literatur (ZfDA) (1876-)
   title: Zeitschrift für Deutsches Altertum und Deutsche Literatur (ZfDA) (1876-)
@@ -31874,8 +31866,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003312
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für deutsches Altertum und deutsche Literatur
-    : ZfDA'
+  relation_text_mv: 'Zeitschrift für deutsches Altertum und deutsche Literatur : ZfDA'
 - id: EZB64941
   display: 'Zeitschrift für Dialektologie und Linguistik : ZDL'
   title: 'Zeitschrift für Dialektologie und Linguistik : ZDL'
@@ -31901,7 +31892,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00029873
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für Dialektologie und Linguistik : ZDL'
+  relation_text_mv: 'Zeitschrift für Dialektologie und Linguistik : ZDL'
 - id: EZB64942
   display: Zeitschrift für Germanistische Linguistik
   title: Zeitschrift für Germanistische Linguistik
@@ -31927,8 +31918,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003401
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für germanistische Linguistik : ZGL ; deutsche
-    Sprache in Gegenwart und Geschichte'
+  relation_text_mv: 'Zeitschrift für germanistische Linguistik : ZGL ; deutsche Sprache
+    in Gegenwart und Geschichte'
 - id: EZB10079
   display: Zeitschrift für Germanistische Linguistik (ZGL)
   title: Zeitschrift für Germanistische Linguistik (ZGL)
@@ -31954,8 +31945,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003401
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für germanistische Linguistik : ZGL ; deutsche
-    Sprache in Gegenwart und Geschichte'
+  relation_text_mv: 'Zeitschrift für germanistische Linguistik : ZGL ; deutsche Sprache
+    in Gegenwart und Geschichte'
 - id: EZB215551
   display: Zeitschrift für kritische Sozialtheorie und Philosophie
   title: Zeitschrift für kritische Sozialtheorie und Philosophie
@@ -32005,8 +31996,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003557␟AK01599903
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für Literaturwissenschaft und Linguistik : LiLi
-    ; eine Zeitschrift der Universität Siegen␟Zeitschrift für Literaturwissenschaft
+  relation_text_mv: 'Zeitschrift für Literaturwissenschaft und Linguistik : LiLi ;
+    eine Zeitschrift der Universität Siegen␟Zeitschrift für Literaturwissenschaft
     und Linguistik : LiLi ; eine Zeitschrift der Universität Siegen'
 - id: EZB177476
   display: 'Zeitschrift für Literaturwissenschaft und Linguistik : LiLi'
@@ -32033,8 +32024,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003557
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für Literaturwissenschaft und Linguistik : LiLi
-    ; eine Zeitschrift der Universität Siegen'
+  relation_text_mv: 'Zeitschrift für Literaturwissenschaft und Linguistik : LiLi ;
+    eine Zeitschrift der Universität Siegen'
 - id: EZB64943
   display: 'Zeitschrift für Literaturwissenschaft und Linguistik : LiLi'
   title: 'Zeitschrift für Literaturwissenschaft und Linguistik : LiLi'
@@ -32061,8 +32052,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00003557␟AK01599903
   relation_type_mv: Erscheint auch als Druck-Ausgabe␟Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für Literaturwissenschaft und Linguistik : LiLi
-    ; eine Zeitschrift der Universität Siegen␟Zeitschrift für Literaturwissenschaft
+  relation_text_mv: 'Zeitschrift für Literaturwissenschaft und Linguistik : LiLi ;
+    eine Zeitschrift der Universität Siegen␟Zeitschrift für Literaturwissenschaft
     und Linguistik : LiLi ; eine Zeitschrift der Universität Siegen'
 - id: EZB110626
   display: Zeitschrift für philosophische Forschung
@@ -32090,7 +32081,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004690
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Zeitschrift für philosophische Forschung
+  relation_text_mv: Zeitschrift für philosophische Forschung
 - id: EZB124918
   display: Zeitschrift für philosophische Forschung
   title: Zeitschrift für philosophische Forschung
@@ -32117,7 +32108,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004690
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Zeitschrift für philosophische Forschung
+  relation_text_mv: Zeitschrift für philosophische Forschung
 - id: EZB64944
   display: 'Zeitschrift für Philosophische Forschung : ZphF'
   title: 'Zeitschrift für Philosophische Forschung : ZphF'
@@ -32144,7 +32135,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004690
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Zeitschrift für philosophische Forschung
+  relation_text_mv: Zeitschrift für philosophische Forschung
 - id: EZB64945
   display: Zeitschrift für Religions- und Geistesgeschichte (ZRGG)
   title: Zeitschrift für Religions- und Geistesgeschichte (ZRGG)
@@ -32170,8 +32161,8 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004560
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Zeitschrift für Religions- und Geistesgeschichte : ZRGG =
-    Journal of religious and intellectual history'
+  relation_text_mv: 'Zeitschrift für Religions- und Geistesgeschichte : ZRGG = Journal
+    of religious and intellectual history'
 - id: EZB127774
   display: Zeltweg, Der
   title: Zeltweg, Der
@@ -32196,7 +32187,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00008638
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Der Zeltweg
+  relation_text_mv: Der Zeltweg
 - id: EZB33153
   display: Zentralblatt für Bibliothekswesen (1927 - 1990)
   title: Zentralblatt für Bibliothekswesen (1927 - 1990)
@@ -32221,7 +32212,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00004665
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: Zentralblatt für Bibliothekswesen
+  relation_text_mv: Zentralblatt für Bibliothekswesen
 - id: EZB168961
   display: Zeszyty Glottodydaktyczne = Glottodidactic Notebooks
   title: Zeszyty Glottodydaktyczne = Glottodidactic Notebooks
@@ -32269,7 +32260,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00168975
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Das Ziel : Jahrbücher für geistige Politik'
+  relation_text_mv: 'Das Ziel : Jahrbücher für geistige Politik'
 - id: EZB53945
   display: Zmogus ir Zodis = Man and the Word
   title: Zmogus ir Zodis = Man and the Word
@@ -32318,7 +32309,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00180009
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Znak : miesięcznik'
+  relation_text_mv: 'Znak : miesięcznik'
 - id: EZB197738
   display: Znakovi Vremena = Signs of the Time
   title: Znakovi Vremena = Signs of the Time
@@ -32366,7 +32357,7 @@
   identifier_type_mv: 572z
   relation_id_mv: AK00005658
   relation_type_mv: Erscheint auch als Druck-Ausgabe
-  relation_display_mv: 'Der Zweemann : Monatsblätter für Dichtung und Kunst'
+  relation_text_mv: 'Der Zweemann : Monatsblätter für Dichtung und Kunst'
 - id: EZB465428
   display: "\x8Eiva Ba\x9Atina = Living Heritage"
   title: "\x8Eiva Ba\x9Atina = Living Heritage"

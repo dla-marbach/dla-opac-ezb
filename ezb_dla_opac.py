@@ -253,7 +253,7 @@ df['relation_type_mv'] = df['relation_id_mv'].map(
 	if value
 	else ''
 )
-df['relation_display_mv'] = df['relation_id_mv'].map(
+df['relation_text_mv'] = df['relation_id_mv'].map(
 	lambda value: '␟'.join([id_to_display.get(related_id, '') for related_id in value.split('␟') if related_id and id_to_display.get(related_id, '')])
 	if value
 	else ''
