@@ -187,7 +187,7 @@ df['website_url_mv'] = df.apply(
 	),
 	axis=1
 )
-df['identifier_type_mv'] = '572z'
+df['identifier_type_mv'] = df_input['zdb_id'].map(lambda value: '572z' if value else '')
 
 # Export
 df.to_csv(args.output, sep='\t', index=False)
