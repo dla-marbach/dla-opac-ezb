@@ -49,6 +49,7 @@ df['filterSource'] = 'Elektronische Zeitschriftenbibliothek'
 df['filterMedium_mv'] = 'Zeitschrift'
 df['filterType_mv'] = 'Gedrucktes'
 df['displayAddition2'] = 'Volltext (Elektronische Zeitschriftenbibliothek)'
+df['source'] = 'AK'
 
 df['publisherOriginalText_mv'] = df_input['publisher_name']
 df['identifier_id_mv'] = df_input['zdb_id']
