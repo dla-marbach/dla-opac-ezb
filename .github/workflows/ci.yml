@@ -1,0 +1,63 @@
+# Läuft bei jedem Pull Request nach main und nach jedem Merge auf main.
+# Im PR müssen alle Jobs vor dem Merge grün sein. Ein roter Lauf auf main
+# wird umgehend per Ticket und Fix-PR behoben, vor jedem Release muss er grün sein.
+# Actions sind per Commit-SHA gepinnt (Tags lassen sich verschieben, SHAs nicht),
+# Dependabot aktualisiert SHA und Kommentar.
+# Das Projekt läuft nicht als Container, deshalb gibt es keinen Image-Job.
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Linter und Tests
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      # Dieselbe Python-Version wie im Devcontainer (.devcontainer/Dockerfile).
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.13"
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements-dev.txt
+      - name: Linter
+        run: ruff check .
+      # Erzeugt output/ ohne Netzwerkzugriff aus den eingecheckten Daten neu und
+      # prüft, dass das Ergebnis dem eingecheckten output/ entspricht. So fällt
+      # auf, wenn eine Änderung der Transformation ohne neu erzeugtes output/
+      # committet wurde.
+      - name: Transformation reproduzierbar
+        run: |
+          python ezb_dla_opac.py --input input/ezb-dla-kbart.tsv --output output/ezb.tsv
+          if [ -n "$(git status --porcelain -- output/)" ]; then
+            git status --short -- output/
+            echo "::error::output/ weicht vom Ergebnis der Transformation ab. Lokal neu erzeugen und committen."
+            exit 1
+          fi
+
+  trivy-repo:
+    name: Trivy (Repo)
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      # Ohne ignore-unfixed: Funde in Abhängigkeiten werden immer gemeldet.
+      # Ohne version: Die Action bringt eine feste Trivy-Version mit, Dependabot aktualisiert beides.
+      - name: Repo scannen (Abhängigkeiten, Secrets, Konfiguration)
+        uses: aquasecurity/trivy-action@ed142fd0673e97e23eac54620cfb913e5ce36c25 # v0.36.0
+        with:
+          scan-type: fs
+          scan-ref: .
+          scanners: vuln,secret,misconfig
+          severity: HIGH,CRITICAL
+          exit-code: "1"

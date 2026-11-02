@@ -1,3 +1,14 @@
 {
-  "postCreateCommand": "sh -c \"$(curl --location https://taskfile.dev/install.sh)\" -- -d -b ~/.local/bin && pip3 install -r requirements.txt"
+  "name": "dla-opac-ezb",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "remoteUser": "vscode",
+  "postCreateCommand": "pip install -r requirements-dev.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "charliermarsh.ruff"]
+    }
+  }
 }
