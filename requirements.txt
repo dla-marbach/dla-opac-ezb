@@ -1,2 +1,2 @@
-pandas
-PyYAML
+pandas==3.1.0
+PyYAML==6.0.3

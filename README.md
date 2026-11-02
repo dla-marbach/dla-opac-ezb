@@ -6,7 +6,9 @@ Transformation der Daten aus der Elektronischen Zeitschriftenbibliothek (EZB) f�
 
 - GNU/Linux mit GNU awk und Perl
 - [go-task](https://taskfile.dev) >=3.0.0
-- Python 3.9+ mit Pandas >=1.3.3
+- Python 3.11+ mit den Paketen aus `requirements.txt`
+
+Alles Nötige enthält der Devcontainer (`.devcontainer/`). Der Ablauf für Änderungen, Datenaktualisierung und Release steht in der [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Input
 
