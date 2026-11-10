@@ -23,7 +23,7 @@ Regeln für KI-Agenten in diesem Repository. Zweck, Aufbau und Befehle des Proje
 - Fremdbibliotheken nur über den Paketmanager einbinden, nie als kopierte Datei ins Repo.
 
 ## Betrieb
-- Das Projekt läuft nicht als Container. Es erzeugt `output/ezb.tsv`, das [dla-opac-transform](https://github.com/dla-marbach/dla-opac-transform) in den Katalog lädt. `output/ezb.yaml` und `output/links-ak-ezb.csv` dienen der Kontrolle.
+- Das Projekt läuft nicht als Container. Es erzeugt `output/ezb.tsv` und `output/links-ak-ezb.csv` (Beziehungen zwischen AK- und EZB-Datensätzen), die [dla-opac-transform](https://github.com/dla-marbach/dla-opac-transform) in den Katalog lädt. `output/ezb.yaml` dient nur der Kontrolle.
 - Produktiv wird `output/` von einem Release-Tag geladen, nicht von `main`. Versionen folgen SemVer (`vX.Y.Z`). Tags und Releases legen nur Menschen an.
 - Spalten und Dateinamen in `output/` sind die Schnittstelle zu dla-opac-transform. Ändere sie nur auf ausdrückliche Anweisung; das ist ein Breaking Change.
 
