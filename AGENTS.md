@@ -18,8 +18,9 @@ Regeln für KI-Agenten in diesem Repository. Zweck, Aufbau und Befehle des Proje
 
 ## Abhängigkeiten
 - Updates von Abhängigkeiten, GitHub Actions und Base Images übernimmt Dependabot. Ändere Versionen nur, wenn die Aufgabe es erfordert.
-- Füge neue Abhängigkeiten nur hinzu, wenn die Aufgabe es erfordert. Begründe sie im PR und trage sie mit fester Version (`==`) in `requirements.txt` bzw. `requirements-dev.txt` ein.
+- Füge neue Abhängigkeiten nur hinzu, wenn die Aufgabe es erfordert. Begründe sie im PR und trage sie samt indirekter Abhängigkeiten mit fester Version (`==`) in `requirements.txt` bzw. `requirements-dev.txt` ein.
 - Base Image in `.devcontainer/Dockerfile` immer mit festem Versionstag, nie `latest`.
+- Fremdbibliotheken nur über den Paketmanager einbinden, nie als kopierte Datei ins Repo.
 
 ## Betrieb
 - Das Projekt läuft nicht als Container. Es erzeugt `output/ezb.tsv`, das [dla-opac-transform](https://github.com/dla-marbach/dla-opac-transform) in den Katalog lädt. `output/ezb.yaml` und `output/links-ak-ezb.csv` dienen der Kontrolle.

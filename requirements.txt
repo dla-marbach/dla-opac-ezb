@@ -1,2 +1,8 @@
+# Lockfile: alle Abhängigkeiten einschließlich der indirekten mit fester Version.
+# Updates über Dependabot. Neue Abhängigkeit: in einer frischen venv installieren
+# und die Ausgabe von "pip freeze" hier übernehmen.
+numpy==2.5.4
 pandas==3.1.0
+python-dateutil==4.0.0
 PyYAML==6.0.3
+tzdata==2026.6
